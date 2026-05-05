@@ -1,0 +1,7 @@
+foreground_group	foreground_size	background_size	candidate_distinguishing	candidate_not_distinguishing	noncandidate_distinguishing	noncandidate_not_distinguishing	odds_ratio_haldane	raw_p_value_fisher	bh_fdr	interpretation
+aquatic	30	214	3	20	41	914	3.76227	0.0802387	0.120358	exploratory enrichment screen; not proof of adaptation
+marine	30	214	3	20	41	914	3.76227	0.0802387	0.120358	exploratory enrichment screen; not proof of adaptation
+cetacean	19	225	5	18	58	897	4.5611	0.0128842	0.0773052	exploratory enrichment screen; not proof of adaptation
+pinniped	10	234	2	21	52	903	2.00111	0.366118	0.439342	exploratory enrichment screen; not proof of adaptation
+deep_diving	29	215	3	20	41	914	3.76227	0.0802387	0.120358	exploratory enrichment screen; not proof of adaptation
+semi_aquatic	8	236	0	23	11	944	1.74746	1	1	exploratory enrichment screen; not proof of adaptation

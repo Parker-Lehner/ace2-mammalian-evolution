@@ -1,0 +1,34 @@
+name: ace2-evolution-gbe
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - biopython
+  - matplotlib
+  - seaborn
+  - requests
+  - ncbi-datasets-cli
+  - entrez-direct
+  - blast
+  - mafft
+  - muscle
+  - iqtree
+  - hyphy
+  - paml
+  - pal2nal
+  - r-base
+  - r-ape
+  - r-phytools
+  - r-caper
+  - r-nlme
+  - r-geiger
+  - r-phylolm
+  - r-ouwie
+  - r-metafor
+  - r-tidyverse
+  - r-broom
+  - snakemake

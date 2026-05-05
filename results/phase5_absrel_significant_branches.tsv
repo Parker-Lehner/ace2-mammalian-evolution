@@ -1,0 +1,8 @@
+foreground_group	branch	corrected_p_value	uncorrected_p_value	lrt	interpretation
+aquatic	Mesoplodon_mirus_XP_082465508_1	0	0	167.4654262888944	branch-level episodic selection candidate; verify taxonomy/sequence quality before functional interpretation
+aquatic	Leptonychotes_weddellii_XP_081665257_1	0.00981122346013552	0.000181689323335843	15.06176553102705	branch-level episodic selection candidate; verify taxonomy/sequence quality before functional interpretation
+cetacean	Mesoplodon_mirus_XP_082465508_1	0	0	167.3560128291792	branch-level episodic selection candidate; verify taxonomy/sequence quality before functional interpretation
+deep_diving	Mesoplodon_mirus_XP_082465508_1	0	0	167.4665215683417	branch-level episodic selection candidate; verify taxonomy/sequence quality before functional interpretation
+deep_diving	Leptonychotes_weddellii_XP_081665257_1	0.009516586987229514	0.0001795582450420663	15.08520285793202	branch-level episodic selection candidate; verify taxonomy/sequence quality before functional interpretation
+marine	Mesoplodon_mirus_XP_082465508_1	0	0	167.499250436842	branch-level episodic selection candidate; verify taxonomy/sequence quality before functional interpretation
+marine	Leptonychotes_weddellii_XP_081665257_1	0.009802576447942246	0.000181529193480412	15.06351703109249	branch-level episodic selection candidate; verify taxonomy/sequence quality before functional interpretation

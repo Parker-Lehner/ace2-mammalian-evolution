@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Comparative Evolutionary Genomics of ACE2 Reveals Ecological and Lineage-Associated Selection Patterns Across Mammals"
+message: "If you use this repository, please cite the archived Zenodo DOI after release."
+authors:
+  - family-names: Lehner
+    given-names: Parker
+version: 1.0.0-submission
+date-released: 2026-05-05
+license: MIT
+doi: "DOI pending Zenodo release"

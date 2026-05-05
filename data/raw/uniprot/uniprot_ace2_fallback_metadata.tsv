@@ -1,0 +1,7 @@
+scientific_name	common_name	group	priority	uniprot_accession	status	reviewed	length	protein_name	organism	retrieved_at_utc
+Balaenoptera acutorostrata	minke whale	cetacean	required	A0ABM3SYW8	retrieved_candidate_length_or_name_suspect_manual_review_required	unreviewed	536	Angiotensin-converting enzyme (EC 3.4.-.-)	Balaenoptera acutorostrata (Common minke whale) (Balaena rostrata)	2026-05-02T02:07:04.336233+00:00
+Neophocaena asiaeorientalis	finless porpoise	cetacean	high	A0A341BCI8	retrieved_candidate_name_ambiguous_manual_review_required	unreviewed	804	Angiotensin-converting enzyme (EC 3.4.-.-)	Neophocaena asiaeorientalis asiaeorientalis (Yangtze finless porpoise) (Neophocaena phocaenoides subsp. asiaeorientalis)	2026-05-02T02:07:04.336233+00:00
+Odobenus rosmarus	walrus	pinniped	required	A0A2U3X0M3	retrieved_candidate_name_ambiguous_manual_review_required	unreviewed	732	Angiotensin-converting enzyme (EC 3.4.-.-)	Odobenus rosmarus divergens (Pacific walrus)	2026-05-02T02:07:04.336233+00:00
+Trichechus manatus	West Indian manatee	sirenian	required	A0A2Y9E393	retrieved_candidate_name_ambiguous_manual_review_required	unreviewed	800	Angiotensin-converting enzyme (EC 3.4.-.-)	Trichechus manatus latirostris (Florida manatee)	2026-05-02T02:07:04.336233+00:00
+Trichechus inunguis	Amazonian manatee	sirenian	high		not_found					2026-05-02T02:07:04.336233+00:00
+Enhydra lutris	sea otter	semiaquatic	required		not_found					2026-05-02T02:07:04.336233+00:00
