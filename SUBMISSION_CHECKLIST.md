@@ -17,8 +17,8 @@
 - [x] Final title standardized across repository-facing files.
 - [x] Old repository owner string removed from release-facing files.
 - [x] Checksums regenerated after final edits.
-- [ ] Zenodo release created before publication.
-- [ ] Zenodo DOI inserted into the accepted version after archive creation.
+- [x] Zenodo release created.
+- [x] Zenodo DOI inserted into repository and manuscript package.
 
 ## Scientific Review Gate
 

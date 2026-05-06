@@ -29,7 +29,9 @@ Use `make status` for a lightweight environment check. Full reruns require MAFFT
 
 ## Data Availability
 
-The GitHub repository is available at https://github.com/Parker-Lehner/ace2-mammalian-evolution. A versioned Zenodo archive will be created before publication, and the DOI will be added to the accepted version.
+All sequence metadata, alignments, analysis scripts, model outputs, and figure-generation code are available in the GitHub repository https://github.com/Parker-Lehner/ace2-mammalian-evolution and archived on Zenodo at https://doi.org/10.5281/zenodo.20056923. The version-specific Zenodo DOI is 10.5281/zenodo.20056923, and the concept DOI for future versions is 10.5281/zenodo.20056922.
+
+Zenodo record: https://zenodo.org/records/20056923
 
 ## License
 
