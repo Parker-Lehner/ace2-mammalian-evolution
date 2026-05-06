@@ -1,10 +1,17 @@
 # Reproducibility
 
-This release is designed to preserve the exact evidence supporting the manuscript. The fastest audit path is:
+This repository preserves the public-data analysis package for `Ecological and Lineage-Associated Molecular Evolution of ACE2 Across Mammals`.
 
-1. Inspect `results/evidence_traceability.tsv`.
-2. Confirm manuscript values against `results/`.
-3. Inspect `data/processed/` for taxon metadata, alignment QC, codon status, and human ACE2 coordinate mapping.
-4. Use `scripts/` and `environment.yml` for full reruns where the complete local bioinformatics toolchain is available.
+## Minimum Checks
 
-The current manuscript uses BUSTED as the primary foreground-selection evidence, aBSREL as branch-level prioritization, reduced fixed-branch PAML as sensitivity evidence, and enrichment tests as exploratory prioritization.
+```bash
+make status
+```
+
+## Full Workflow
+
+The workflow uses public sequence records, curated metadata, alignment QC, codon-status checks, human ACE2 coordinate mapping, HyPhy selection models, reduced PAML checks, and figure-generation scripts. Some full reruns require local installations of MAFFT, IQ-TREE, HyPhy, PAML, Python, and R packages specified in `environment.yml`.
+
+## Traceability
+
+Manuscript numerical claims are traceable to tab-delimited files in `results/` and `data/processed/`. Supplementary table descriptions are provided in `supplement/Supplementary_Information_JME.md`.

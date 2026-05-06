@@ -1,6 +1,6 @@
-# Comparative Evolutionary Genomics of ACE2 Reveals Ecological and Lineage-Associated Selection Patterns Across Mammals
+# Ecological and Lineage-Associated Molecular Evolution of ACE2 Across Mammals
 
-This repository contains the public-data analysis package for a planned Journal of Molecular Evolution Article on mammalian ACE2 molecular evolution.
+This repository contains the public-data analysis package for a Journal of Molecular Evolution Article on mammalian ACE2 molecular evolution.
 
 ## Author
 
@@ -10,25 +10,26 @@ Correspondence: lehnerparker@gmail.com
 
 ## Claim Boundary
 
-Supported: mammalian ACE2 is broadly conserved but shows ecological and lineage-associated molecular evolutionary heterogeneity.
+Supported: mammalian ACE2 is broadly conserved while showing ecological and lineage-associated molecular evolutionary heterogeneity.
 
-Not supported: ACE2-driven aquatic/diving causality, viral adaptation inferred from Q24/D30 alone, or fixed-branch PAML as primary proof.
+Not inferred: direct aquatic/diving causality, viral adaptation from Q24/D30 alone, or fixed-branch PAML as primary proof.
 
 ## Repository Contents
 
-- `data/`: public sequence metadata, raw public retrieval outputs, processed coordinate/QC tables
-- `results/`: site-level, BUSTED/aBSREL, reduced PAML sensitivity, enrichment, and traceability tables
-- `figures/`: source SVG figures
-- `scripts/`: retrieval, curation, analysis, figure, and package-generation scripts
-- `manuscript/`: manuscript source and BibTeX bibliography
+- `data/processed/`: public sequence metadata, codon status, alignment QC, and coordinate maps.
+- `results/`: site-level, BUSTED/aBSREL, reduced PAML, enrichment, and traceability tables.
+- `figures/`: source SVG figures.
+- `scripts/`: reproducible analysis scripts retained from the project workflow.
+- `manuscript/`: final manuscript source and BibTeX bibliography.
+- `supplement/`: supplementary table documentation and tab-delimited table files.
 
 ## Reproducibility
 
 Use `make status` for a lightweight environment check. Full reruns require MAFFT, IQ-TREE, HyPhy, PAML, Python, and R packages documented in `environment.yml`. Computationally expensive outputs are archived in `results/`.
 
-## Citation
+## Data Availability
 
-The repository is Zenodo-ready but does not yet have a DOI. After Zenodo archival, cite the DOI listed in `CITATION.cff`.
+The GitHub repository is available at https://github.com/Parker-Lehner/ace2-mammalian-evolution. A versioned Zenodo archive will be created before publication, and the DOI will be added to the accepted version.
 
 ## License
 

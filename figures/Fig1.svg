@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="860" viewBox="0 0 1500 860">
+<defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#111827}.panel{font-size:27px;font-weight:700}.head{font-size:23px;font-weight:700}.body{font-size:19px}.small{font-size:15px;fill:#475467}.num{font-size:21px;font-weight:700;fill:#12304A}.axis{font-size:14px;fill:#475467}</style></defs>
+<rect x="0" y="0" width="1500" height="860" fill="white"/>
+<text x="70.0" y="80.0" class="panel" text-anchor="start">a</text>
+<text x="115.0" y="80.0" class="head" text-anchor="start">Dataset curation</text>
+<text x="110.0" y="149.0" class="body" text-anchor="start">Curated proteins</text>
+<rect x="390.0" y="125.0" width="470.0" height="30.0" rx="2.5" fill="#EEF2F7" stroke="#C8D0DA" stroke-width="1.2"/>
+<rect x="390.0" y="125.0" width="470.0" height="30.0" rx="2.5" fill="#007C89" stroke="#007C89" stroke-width="1.2"/>
+<text x="890.0" y="149.0" class="num" text-anchor="start">244</text>
+<text x="110.0" y="211.0" class="body" text-anchor="start">Codon-level taxa</text>
+<rect x="390.0" y="187.0" width="470.0" height="30.0" rx="2.5" fill="#EEF2F7" stroke="#C8D0DA" stroke-width="1.2"/>
+<rect x="390.0" y="187.0" width="458.4" height="30.0" rx="2.5" fill="#1F5AA6" stroke="#1F5AA6" stroke-width="1.2"/>
+<text x="890.0" y="211.0" class="num" text-anchor="start">238</text>
+<text x="110.0" y="273.0" class="body" text-anchor="start">Excluded CDS</text>
+<rect x="390.0" y="249.0" width="470.0" height="30.0" rx="2.5" fill="#EEF2F7" stroke="#C8D0DA" stroke-width="1.2"/>
+<rect x="390.0" y="249.0" width="11.6" height="30.0" rx="2.5" fill="#A83232" stroke="#A83232" stroke-width="1.2"/>
+<text x="890.0" y="273.0" class="num" text-anchor="start">6</text>
+<text x="110.0" y="335.0" class="body" text-anchor="start">FUBAR sites</text>
+<rect x="390.0" y="311.0" width="470.0" height="30.0" rx="2.5" fill="#EEF2F7" stroke="#C8D0DA" stroke-width="1.2"/>
+<rect x="390.0" y="311.0" width="53.9" height="30.0" rx="2.5" fill="#21835A" stroke="#21835A" stroke-width="1.2"/>
+<text x="890.0" y="335.0" class="num" text-anchor="start">28</text>
+<text x="110.0" y="397.0" class="body" text-anchor="start">MEME p &lt;= 0.05</text>
+<rect x="390.0" y="373.0" width="470.0" height="30.0" rx="2.5" fill="#EEF2F7" stroke="#C8D0DA" stroke-width="1.2"/>
+<rect x="390.0" y="373.0" width="183.0" height="30.0" rx="2.5" fill="#C96B00" stroke="#C96B00" stroke-width="1.2"/>
+<text x="890.0" y="397.0" class="num" text-anchor="start">95</text>
+<text x="110.0" y="459.0" class="body" text-anchor="start">Overlap sites</text>
+<rect x="390.0" y="435.0" width="470.0" height="30.0" rx="2.5" fill="#EEF2F7" stroke="#C8D0DA" stroke-width="1.2"/>
+<rect x="390.0" y="435.0" width="44.3" height="30.0" rx="2.5" fill="#6D3FC2" stroke="#6D3FC2" stroke-width="1.2"/>
+<text x="890.0" y="459.0" class="num" text-anchor="start">23</text>
+<text x="70.0" y="550.0" class="panel" text-anchor="start">b</text>
+<text x="115.0" y="550.0" class="head" text-anchor="start">Analysis workflow</text>
+<rect x="95.0" y="625.0" width="220.0" height="100.0" rx="2.5" fill="#F8FAFC" stroke="#C8D0DA" stroke-width="1.2"/>
+<circle cx="121.0" cy="675.0" r="16.0" fill="#007C89" stroke="white" stroke-width="3"/>
+<text x="150.0" y="664.0" class="small" text-anchor="start">Public ACE2 records</text>
+<text x="150.0" y="696.0" class="axis" text-anchor="start">NCBI/RefSeq-style sources</text>
+<line x1="315.0" y1="675.0" x2="370.0" y2="675.0" stroke="#C8D0DA" stroke-width="2"/>
+<rect x="370.0" y="625.0" width="220.0" height="100.0" rx="2.5" fill="#F8FAFC" stroke="#C8D0DA" stroke-width="1.2"/>
+<circle cx="396.0" cy="675.0" r="16.0" fill="#1F5AA6" stroke="white" stroke-width="3"/>
+<text x="425.0" y="664.0" class="small" text-anchor="start">Alignment + map</text>
+<text x="425.0" y="696.0" class="axis" text-anchor="start">MAFFT and human coordinates</text>
+<line x1="590.0" y1="675.0" x2="645.0" y2="675.0" stroke="#C8D0DA" stroke-width="2"/>
+<rect x="645.0" y="625.0" width="220.0" height="100.0" rx="2.5" fill="#F8FAFC" stroke="#C8D0DA" stroke-width="1.2"/>
+<circle cx="671.0" cy="675.0" r="16.0" fill="#21835A" stroke="white" stroke-width="3"/>
+<text x="700.0" y="664.0" class="small" text-anchor="start">Site screens</text>
+<text x="700.0" y="696.0" class="axis" text-anchor="start">FUBAR and MEME</text>
+<line x1="865.0" y1="675.0" x2="920.0" y2="675.0" stroke="#C8D0DA" stroke-width="2"/>
+<rect x="920.0" y="625.0" width="220.0" height="100.0" rx="2.5" fill="#F8FAFC" stroke="#C8D0DA" stroke-width="1.2"/>
+<circle cx="946.0" cy="675.0" r="16.0" fill="#C96B00" stroke="white" stroke-width="3"/>
+<text x="975.0" y="664.0" class="small" text-anchor="start">Foreground tests</text>
+<text x="975.0" y="696.0" class="axis" text-anchor="start">BUSTED, aBSREL, PAML</text>
+<line x1="1140.0" y1="675.0" x2="1195.0" y2="675.0" stroke="#C8D0DA" stroke-width="2"/>
+<rect x="1195.0" y="625.0" width="220.0" height="100.0" rx="2.5" fill="#F8FAFC" stroke="#C8D0DA" stroke-width="1.2"/>
+<circle cx="1221.0" cy="675.0" r="16.0" fill="#6D3FC2" stroke="white" stroke-width="3"/>
+<text x="1250.0" y="664.0" class="small" text-anchor="start">Evidence synthesis</text>
+<text x="1250.0" y="696.0" class="axis" text-anchor="start">claim-boundary matrix</text>
+</svg>

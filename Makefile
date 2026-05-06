@@ -1,6 +1,5 @@
 status:
-	@echo "ACE2 JME release package"
-	@echo "Inspect data/processed and results for archived analysis artifacts."
-
-all: status
-	@echo "Full rerun requires local bioinformatics tools documented in environment.yml."
+	@echo "ACE2 mammalian evolution repository"
+	@python3 --version || true
+	@echo "Core result tables:" && ls results/*.tsv 2>/dev/null | wc -l
+	@echo "Supplement tables:" && ls supplement/tables/*.tsv 2>/dev/null | wc -l

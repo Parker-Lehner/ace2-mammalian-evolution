@@ -1,0 +1,979 @@
+alignment_site	human_ace2_position	human_residue	domain	feature_annotation	fubar_alpha	fubar_beta	fubar_posterior_positive	fubar_posterior_negative	fubar_bayes_factor_positive	meme_lrt	meme_p_value	meme_branches_under_selection	fubar_positive_ge_0_90	meme_positive_p_le_0_10	meme_positive_p_le_0_05	both_fubar_0_90_and_meme_0_10
+1		-	alignment_gap_relative_to_human		2.76145	0.310927	0.065263	0.896264	0.314232	0	1	0	false	false	false	false
+2		-	alignment_gap_relative_to_human		1.58906	0.351686	0.110668	0.835739	0.560056	0	1	0	false	false	false	false
+3		-	alignment_gap_relative_to_human		4.15345	0.424852	0.0245122	0.926798	0.113092	0	0.666667	0	false	false	false	false
+4		-	alignment_gap_relative_to_human		2.36168	2.6254	0.38257	0.268015	2.78867	0.669367	0.386355	0	false	false	false	false
+5		-	alignment_gap_relative_to_human		1.65544	4.49597	0.625514	0.0868509	7.51752	3.11978	0.100263	0	false	false	false	false
+6		-	alignment_gap_relative_to_human		2.69209	3.18353	0.363205	0.230246	2.56699	5.90972	0.0236154	0	false	true	true	false
+7		-	alignment_gap_relative_to_human		3.53116	1.42139	0.0741082	0.678026	0.360229	0	0.666667	0	false	false	false	false
+8		-	alignment_gap_relative_to_human		2.61994	1.31907	0.110936	0.643803	0.561582	0	0.666667	0	false	false	false	false
+9		-	alignment_gap_relative_to_human		1.72426	4.12441	0.608397	0.084613	6.99219	3.88139	0.067302	0	false	true	false	false
+10		-	alignment_gap_relative_to_human		2.79659	2.63491	0.249069	0.312613	1.49277	0	0.666667	0	false	false	false	false
+11		-	alignment_gap_relative_to_human		1.51459	1.18173	0.313294	0.493955	2.0533	0.875404	0.341529	0	false	false	false	false
+12		-	alignment_gap_relative_to_human		2.40432	3.32672	0.380689	0.172682	2.76652	2.46473	0.141849	0	false	false	false	false
+13		-	alignment_gap_relative_to_human		2.54542	1.33753	0.12526	0.626497	0.644473	-0.0553656	0.666667	0	false	false	false	false
+14		-	alignment_gap_relative_to_human		5.75144	1.16881	0.0320728	0.798065	0.14913	0	0.666667	0	false	false	false	false
+15		-	alignment_gap_relative_to_human		3.28478	2.99206	0.393999	0.29163	2.92614	1.28291	0.270267	0	false	false	false	false
+16		-	alignment_gap_relative_to_human		2.75238	2.13677	0.182613	0.391445	1.00549	0	0.666667	0	false	false	false	false
+17		-	alignment_gap_relative_to_human		2.76766	3.45434	0.426345	0.177904	3.3449	7.49397	0.0105064	0	false	true	true	false
+18		-	alignment_gap_relative_to_human		17.1933	1.3609	0.031653	0.809906	0.147115	0	0.666667	0	false	false	false	false
+19		-	alignment_gap_relative_to_human		3.78823	1.38118	0.227004	0.518356	1.32169	16.8245	9.37487e-05	0	false	true	true	false
+20		-	alignment_gap_relative_to_human		1.6451	1.44272	0.334588	0.409673	2.26303	4.04924	0.0616736	0	false	true	false	false
+21		-	alignment_gap_relative_to_human		2.07752	2.7615	0.419338	0.08483	3.25022	1.66741	0.218275	0	false	false	false	false
+22		-	alignment_gap_relative_to_human		2.4819	1.05105	0.156873	0.71348	0.837392	0	1	0	false	false	false	false
+23		-	alignment_gap_relative_to_human		2.35633	1.00117	0.155792	0.715706	0.830556	0	1	0	false	false	false	false
+24		-	alignment_gap_relative_to_human		3.31508	3.51813	0.291528	0.167215	1.85195	7.17523	0.012361	1	false	true	true	false
+25		-	alignment_gap_relative_to_human		4.486	14.8675	0.715828	0.122421	11.3371	-0.00668996	0.666667	0	false	false	false	false
+26		-	alignment_gap_relative_to_human		2.44313	4.07613	0.461983	0.0227192	3.86458	0.844951	0.347717	0	false	false	false	false
+27		-	alignment_gap_relative_to_human		2.90192	0.686734	0.0121389	0.928255	0.055304	0	0.666667	0	false	false	false	false
+28		-	alignment_gap_relative_to_human		1.27389	0.644506	0.257334	0.636871	1.55946	0.481215	0.434617	0	false	false	false	false
+29	1	M	signal_peptide_or_n_terminal		2.44204	0.019094	0.00202982	0.99331	0.00915404	0	1	0	false	false	false	false
+30	2	S	signal_peptide_or_n_terminal		1.18236	1.41374	0.301377	0.0641387	1.94151	9.09676	0.00464911	3	false	true	true	false
+31	3	S	signal_peptide_or_n_terminal		0.880457	1.09658	0.552786	0.0848919	5.56306	1.78021	0.205195	0	false	false	false	false
+32	4	S	signal_peptide_or_n_terminal		2.69771	0.795308	0.000963321	0.977803	0.00433972	0.0721047	0.590172	8	false	false	false	false
+33		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+34		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+35	5	S	signal_peptide_or_n_terminal		1.02019	2.67119	0.944731	0.000491984	76.9305	6.246	0.0198766	0	true	true	true	true
+36	6	W	signal_peptide_or_n_terminal		3.09022	0.367454	0.089729	0.889489	0.443644	0.422528	0.451542	1	false	false	false	false
+37	7	L	signal_peptide_or_n_terminal		0.625666	0.453416	0.27558	0.644647	1.7121	2.80613	0.118313	5	false	false	false	false
+38	8	L	signal_peptide_or_n_terminal		1.35513	1.13109	0.133385	0.276848	0.69271	1.92516	0.189619	1	false	false	false	false
+39	9	L	signal_peptide_or_n_terminal		0.702704	0.41807	0.1642	0.770311	0.884187	0	0.666667	0	false	false	false	false
+40	10	S	signal_peptide_or_n_terminal		0.730729	0.200144	0.0486239	0.914766	0.230022	-0.0232246	0.666667	3	false	false	false	false
+41	11	L	signal_peptide_or_n_terminal		2.81616	0.40667	4.78836e-08	0.999997	2.15506e-07	0	0.666667	0	false	false	false	false
+42	12	V	signal_peptide_or_n_terminal		2.28116	1.27973	0.0321182	0.653705	0.149349	0	0.666667	0	false	false	false	false
+43		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+44	13	A	signal_peptide_or_n_terminal		0.983959	0.380062	0.0311568	0.948631	0.144734	-0.141399	0.666667	3	false	false	false	false
+45	14	V	signal_peptide_or_n_terminal		2.73122	0.386752	2.41853e-05	0.999609	0.000108851	0	0.666667	0	false	false	false	false
+46	15	T	signal_peptide_or_n_terminal		1.87085	1.20867	0.0447133	0.448311	0.210657	0	0.666667	0	false	false	false	false
+47	16	A	signal_peptide_or_n_terminal		2.49198	0.562417	0.00138329	0.988539	0.00623429	0.0156454	0.633947	7	false	false	false	false
+48	17	A	signal_peptide_or_n_terminal		1.00297	0.306599	0.0153453	0.973167	0.0701395	1.71515	0.212632	4	false	false	false	false
+49	18	Q	peptidase_domain		3.10406	0.234905	8.53256e-09	1	3.84018e-08	0	0.666667	0	false	false	false	false
+50	19	S	peptidase_domain	spike_binding:interface	2.81179	2.79986	0.00195458	0.00942168	0.00881403	1.33282	0.262792	0	false	false	false	false
+51		-	alignment_gap_relative_to_human		2.40892	5.19484	0.524049	0.166823	4.95544	1.80857	0.202042	0	false	false	false	false
+52	20	T	peptidase_domain		1.58856	1.77079	0.295508	0.161405	1.88784	0.0883211	0.580724	8	false	false	false	false
+53	21	I	peptidase_domain		2.81888	2.78187	0.000997542	0.0220102	0.00449404	0.113807	0.56714	0	false	false	false	false
+54	22	E	peptidase_domain		2.81215	0.510244	2.04218e-05	0.999628	9.19125e-05	0.199296	0.528478	5	false	false	false	false
+55	23	E	peptidase_domain		2.16916	1.25917	0.0479934	0.600623	0.226889	0	0.666667	0	false	false	false	false
+56	24	Q	peptidase_domain	spike_binding:interface	2.64136	7.12487	0.999962	1.96264e-09	118648	16.1221	0.000133532	5	true	true	true	true
+57	25	A	peptidase_domain		1.03791	0.578123	0.0619384	0.875448	0.297167	-0.296909	0.666667	8	false	false	false	false
+58	26	K	peptidase_domain		1.56874	2.57696	0.66079	0.0415844	8.76731	11.5621	0.00133327	3	false	true	true	false
+59	27	T	peptidase_domain	spike_binding:interface	1.33507	2.81481	0.892776	9.07109e-07	37.4733	9.284	0.00422757	4	false	true	true	false
+60	28	F	peptidase_domain		0.330156	0.152841	0.33682	0.545465	2.2858	0.47595	0.436094	1	false	false	false	false
+61	29	L	peptidase_domain		1.0779	0.164579	0.00337981	0.993725	0.0152628	0	0.666667	0	false	false	false	false
+62	30	D	peptidase_domain	spike_binding:interface	1.01198	2.81385	0.977614	1.52013e-05	196.544	5.7925	0.0250793	8	true	true	true	true
+63	31	K	peptidase_domain	spike_binding:interface	2.16146	2.94503	0.415558	4.77001e-05	3.2001	3.87904	0.0673847	14	false	true	false	false
+64	32	F	peptidase_domain		1.08047	0.121921	0.00287449	0.994036	0.0129743	0	0.666667	0	false	false	false	false
+65	33	N	peptidase_domain		2.23297	0.158114	1.18425e-05	0.999967	5.32994e-05	0	0.666667	0	false	false	false	false
+66	34	H	peptidase_domain	spike_binding:interface	2.81858	5.31218	0.581931	0.00268989	6.26463	0.441336	0.446004	7	false	false	false	false
+67	35	E	peptidase_domain	spike_binding:interface	1.14196	2.31298	0.747595	0.0169048	13.3303	2.41705	0.145507	5	false	false	false	false
+68	36	A	peptidase_domain		2.97438	0.387937	1.10312e-10	1	4.96473e-10	0	0.666667	0	false	false	false	false
+69	37	E	peptidase_domain	spike_binding:interface	0.907688	0.131809	0.0133217	0.97366	0.0607655	0	0.666667	0	false	false	false	false
+70	38	D	peptidase_domain	spike_binding:interface	2.59735	1.40392	0.021434	0.767586	0.0985793	0	0.666667	0	false	false	false	false
+71	39	L	peptidase_domain		2.62566	1.13044	0.00313624	0.896608	0.0141594	0.754415	0.366975	6	false	false	false	false
+72	40	F	peptidase_domain		0.950145	1.34578	0.543455	0.0160556	5.35738	7.95739	0.0082971	2	false	true	true	false
+73	41	Y	peptidase_domain	spike_binding:interface	1.6832	2.80045	0.682061	0.00273167	9.65499	0.578634	0.408605	5	false	false	false	false
+74	42	Q	peptidase_domain	spike_binding:interface	1.48815	1.46061	0.238483	0.190937	1.40945	0.151313	0.549135	6	false	false	false	false
+75	43	S	peptidase_domain		1.09363	0.706313	0.167251	0.708534	0.903916	1.5396	0.234209	7	false	false	false	false
+76	44	S	peptidase_domain		2.156	1.34627	0.0516083	0.554507	0.244909	0	0.666667	0	false	false	false	false
+77	45	L	peptidase_domain		1.44713	0.324495	0.00233748	0.994645	0.0105448	0	0.666667	0	false	false	false	false
+78	46	A	peptidase_domain		0.894059	0.119177	0.00582171	0.986587	0.0263547	0.925883	0.331571	1	false	false	false	false
+79	47	S	peptidase_domain		0.603058	0.345671	0.204517	0.721655	1.1571	-0.000714106	0.666667	0	false	false	false	false
+80	48	W	peptidase_domain		2.48422	0.0429473	0.00611616	0.988111	0.0276959	0	1	0	false	false	false	false
+81	49	N	peptidase_domain		2.03688	1.89867	0.234115	0.307206	1.37575	0	0.666667	0	false	false	false	false
+82	50	Y	peptidase_domain		0.95583	0.442999	0.0964563	0.858501	0.480456	5.8433	0.024434	3	false	true	true	false
+83	51	N	peptidase_domain		1.37293	0.0273252	3.71048e-06	0.999989	1.66995e-05	0	0.666667	0	false	false	false	false
+84	52	T	peptidase_domain		1.14535	0.141616	0.000286353	0.999332	0.00128913	0	0.666667	0	false	false	false	false
+85	53	N	peptidase_domain		2.32073	0.118967	3.71033e-06	0.99999	1.66988e-05	0	0.666667	0	false	false	false	false
+86	54	I	peptidase_domain		2.38947	0.121318	1.47601e-06	0.999995	6.64299e-06	0	0.666667	0	false	false	false	false
+87	55	T	peptidase_domain		3.01573	0.496401	1.3172e-10	1	5.92822e-10	0	0.666667	0	false	false	false	false
+88	56	E	peptidase_domain		2.8385	1.20249	0.000150421	0.991262	0.00067709	0	0.666667	0	false	false	false	false
+89	57	E	peptidase_domain		1.22259	0.44029	0.0382181	0.936256	0.17884	-0.027323	0.666667	5	false	false	false	false
+90	58	N	peptidase_domain		0.731695	0.0340725	0.00686415	0.980894	0.0311065	0	0.666667	0	false	false	false	false
+91	59	V	peptidase_domain		1.14337	2.8099	0.989555	4.33584e-05	426.377	4.86569	0.0404073	11	true	true	true	true
+92	60	Q	peptidase_domain		0.628351	1.05521	0.753285	0.0544843	13.7415	6.84942	0.0145983	9	false	true	true	false
+93	61	N	peptidase_domain		2.27644	0.428996	0.00222025	0.993365	0.0100148	0	0.666667	0	false	false	false	false
+94	62	M	peptidase_domain		2.44204	0.019094	0.00202982	0.99331	0.00915404	0	1	0	false	false	false	false
+95		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+96		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+97		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+98		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+99		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+100		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+101		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+102		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+103		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+104		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+105		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+106		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+107		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+108		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+109		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+110		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+111		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+112		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+113		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+114		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+115		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+116		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+117		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+118		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+119		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+120		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+121		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+122		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+123		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+124		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+125		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+126		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+127		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+128		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+129		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+130		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+131		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+132		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+133		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+134		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+135		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+136		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+137		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+138		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+139		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+140		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+141		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+142	63	N	peptidase_domain		1.19627	1.04424	0.236375	0.316392	1.39313	0	0.666667	0	false	false	false	false
+143	64	N	peptidase_domain		2.29654	1.63968	0.105769	0.506375	0.532328	2.43775	0.143907	1	false	false	false	false
+144	65	A	peptidase_domain		2.77666	0.314894	1.35411e-06	0.999986	6.09436e-06	7.13242	0.0126341	3	false	true	true	false
+145	66	G	peptidase_domain		2.80066	2.61417	0.00827711	0.125474	0.037563	0	0.666667	0	false	false	false	false
+146	67	D	peptidase_domain		0.977257	1.98459	0.715953	0.00412034	11.344	38.1257	2.12819e-09	12	false	true	true	false
+147	68	K	peptidase_domain		2.70781	2.63809	0.0614081	0.105218	0.294456	1.75338	0.208227	0	false	false	false	false
+148	69	W	peptidase_domain		2.70991	0.683009	0.0626936	0.886807	0.301033	0.125447	0.561335	5	false	false	false	false
+149	70	S	peptidase_domain		0.876299	0.411197	0.0773965	0.884303	0.377554	-0.239032	0.666667	5	false	false	false	false
+150	71	A	peptidase_domain		1.53964	1.19996	0.0582708	0.266569	0.278482	-0.00313501	0.666667	0	false	false	false	false
+151	72	F	peptidase_domain		0.92134	0.130251	0.0122652	0.975585	0.0558865	0	0.666667	0	false	false	false	false
+152	73	L	peptidase_domain		1.80283	0.224981	0.00121674	0.997319	0.00548278	2.25711	0.158518	2	false	false	false	false
+153	74	K	peptidase_domain		1.39094	0.799304	0.105594	0.697631	0.531347	2.10183	0.17233	7	false	false	false	false
+154	75	E	peptidase_domain		2.65237	2.81219	0.101347	0.00156556	0.507564	12.0861	0.00102299	14	false	true	true	false
+155	76	Q	peptidase_domain		2.88311	1.11539	1.94023e-05	0.997686	8.7324e-05	1.66753	0.21826	8	false	false	false	false
+156	77	S	peptidase_domain		1.25002	0.653034	0.0335053	0.859258	0.156022	1.50574	0.238642	7	false	false	false	false
+157	78	T	peptidase_domain		2.78213	2.4925	0.0183348	0.199117	0.0840593	0	0.666667	0	false	false	false	false
+158	79	L	peptidase_domain	spike_binding:interface	2.07151	2.87337	0.464155	1.78182e-06	3.89849	5.39324	0.0307899	19	false	true	true	false
+159	80	A	peptidase_domain		0.807273	0.322681	0.0485878	0.920905	0.229843	-0.242372	0.666667	4	false	false	false	false
+160	81	Q	peptidase_domain		1.27827	2.12851	0.603973	0.0433636	6.8638	1.2824	0.270344	10	false	false	false	false
+161	82	M	peptidase_domain	spike_binding:interface	3.06082	2.82733	0.003586	0.0572986	0.0161973	0	0.666667	0	false	false	false	false
+162	83	Y	peptidase_domain	spike_binding:interface	2.70235	1.34891	0.00840832	0.852997	0.0381636	-1.2369	0.666667	10	false	false	false	false
+163	84	P	peptidase_domain		2.72146	2.56966	0.0505244	0.146131	0.239491	0.12236	0.562853	0	false	false	false	false
+164	85	L	peptidase_domain		2.76646	0.837034	0.000167938	0.986529	0.000755952	0	0.666667	0	false	false	false	false
+165	86	Q	peptidase_domain		1.17677	2.71729	0.900534	0.00379824	40.7473	2.69756	0.125321	8	true	false	false	false
+166	87	E	peptidase_domain		0.916784	2.48476	0.878635	0.00502025	32.5826	10.0869	0.00281352	2	false	true	true	false
+167	88	I	peptidase_domain		1.9477	0.255638	0.000436303	0.998925	0.00196449	0	0.666667	0	false	false	false	false
+168	89	Q	peptidase_domain		2.8088	2.81427	0.00749165	0.00171602	0.0339716	4.66911	0.0447259	2	false	true	true	false
+169	90	N	peptidase_domain	glycosylation:glycosylation	2.78199	2.79922	0.0240791	0.0109841	0.111045	0	0.666667	0	false	false	false	false
+170	91	L	peptidase_domain		1.861	2.86219	0.600859	2.17686e-09	6.77514	20.841	1.24291e-05	13	false	true	true	false
+171	92	T	peptidase_domain		2.77298	2.81478	0.026293	4.82763e-05	0.12153	2.35094	0.150742	1	false	false	false	false
+172	93	V	peptidase_domain		1.025	2.8148	0.99846	3.16557e-08	2918.92	11.8453	0.00115539	11	true	true	true	true
+173	94	K	peptidase_domain		2.74606	0.357878	2.46184e-05	0.99984	0.000110801	0	0.666667	0	false	false	false	false
+174	95	L	peptidase_domain		2.43813	0.939659	0.00754367	0.886948	0.0342092	0	0.666667	0	false	false	false	false
+175	96	Q	peptidase_domain		7.29799	0.0345859	4.47934e-19	1	2.01598e-18	0	0.666667	0	false	false	false	false
+176	97	L	peptidase_domain		2.785	0.0411578	1.57244e-08	1	7.07696e-08	0	0.666667	0	false	false	false	false
+177	98	Q	peptidase_domain		1.93675	1.25503	0.0732457	0.476745	0.355705	-0.0312517	0.666667	0	false	false	false	false
+178	99	A	peptidase_domain		2.81126	2.80402	0.0022436	0.0067892	0.0101203	2.3061	0.154406	15	false	false	false	false
+179	100	L	peptidase_domain		2.14172	0.114793	1.55414e-06	0.999995	6.9946e-06	0	0.666667	0	false	false	false	false
+180	101	Q	peptidase_domain		2.40965	0.144793	1.44547e-05	0.999956	6.5056e-05	0	0.666667	0	false	false	false	false
+181	102	Q	peptidase_domain		2.87726	2.18393	0.00186772	0.405275	0.00842165	0	0.666667	0	false	false	false	false
+182	103	N	peptidase_domain		2.72817	1.12219	0.00225441	0.95682	0.0101692	0	0.666667	0	false	false	false	false
+183	104	G	peptidase_domain		2.77428	0.58455	7.54514e-05	0.998112	0.000339604	0.342488	0.476478	7	false	false	false	false
+184	105	S	peptidase_domain		2.59017	1.11853	0.00455236	0.891197	0.0205822	0	0.666667	0	false	false	false	false
+185	106	S	peptidase_domain		2.81254	0.619925	3.40537e-06	0.999734	1.53263e-05	0	0.666667	0	false	false	false	false
+186	107	V	peptidase_domain		2.81071	2.2524	0.001886	0.352543	0.0085042	-0.0636395	0.666667	0	false	false	false	false
+187	108	L	peptidase_domain		2.68635	0.203457	4.22604e-06	0.999958	1.90199e-05	0	0.666667	0	false	false	false	false
+188	109	S	peptidase_domain		2.79596	1.12101	0.000165779	0.989353	0.000746233	0	0.666667	0	false	false	false	false
+189	110	E	peptidase_domain		1.78161	2.81182	0.637679	0.000696486	7.921	1.46839	0.24364	16	false	false	false	false
+190	111	D	peptidase_domain		1.20263	1.16911	0.24835	0.139177	1.48703	-0.0127638	0.666667	10	false	false	false	false
+191	112	K	peptidase_domain		2.24404	0.183679	6.78972e-05	0.999831	0.0003056	0	0.666667	0	false	false	false	false
+192	113	S	peptidase_domain		1.18011	2.80581	0.948812	0.000390396	83.4235	2.04718	0.177491	15	true	false	false	false
+193	114	K	peptidase_domain		1.76	1.948	0.333958	0.196194	2.25665	0.12001	0.564019	9	false	false	false	false
+194		-	alignment_gap_relative_to_human		1.8097	5.72218	0.606767	0.107555	6.94456	2.18699	0.164604	0	false	false	false	false
+195		-	alignment_gap_relative_to_human		1.87796	2.70734	0.397537	0.313304	2.96975	1.20034	0.283173	0	false	false	false	false
+196	115	R	peptidase_domain		2.67966	1.21012	0.00336278	0.91305	0.0151857	-0.00804805	0.666667	0	false	false	false	false
+197	116	L	peptidase_domain		2.79771	0.0436924	4.06931e-09	1	1.83144e-08	0	0.666667	0	false	false	false	false
+198	117	N	peptidase_domain		2.76976	1.13748	0.000696448	0.977002	0.00313663	0	0.666667	0	false	false	false	false
+199	118	T	peptidase_domain		2.79593	1.33728	0.00125309	0.916768	0.00564677	13.1569	0.0005956	15	false	true	true	false
+200	119	I	peptidase_domain		1.03494	0.574045	0.0952206	0.83523	0.473653	1.26793	0.272558	6	false	false	false	false
+201	120	L	peptidase_domain		1.43241	0.468378	0.00374927	0.960727	0.0169375	0	0.666667	0	false	false	false	false
+202	121	N	peptidase_domain		2.98888	0.903748	7.08838e-06	0.999523	3.19023e-05	0	0.666667	0	false	false	false	false
+203	122	T	peptidase_domain		2.77558	2.58546	0.0217745	0.141414	0.10018	-0.0303369	0.666667	0	false	false	false	false
+204	123	M	peptidase_domain		2.44202	0.0190812	0.00202807	0.993312	0.00914613	0	1	0	false	false	false	false
+205	124	S	peptidase_domain		1.45612	0.120273	3.59542e-05	0.999903	0.000161822	0	0.666667	0	false	false	false	false
+206	125	T	peptidase_domain		1.04779	0.835382	0.165763	0.576939	0.894273	0.762969	0.365097	0	false	false	false	false
+207	126	I	peptidase_domain		0.903329	0.339191	0.0361098	0.941223	0.168605	0	0.666667	0	false	false	false	false
+208	127	Y	peptidase_domain		2.71601	0.0353619	4.79151e-08	1	2.15648e-07	0	0.666667	0	false	false	false	false
+209	128	S	peptidase_domain		2.69894	0.0183943	1.06264e-09	1	4.78253e-09	0	0.666667	0	false	false	false	false
+210	129	T	peptidase_domain		2.81946	0.234003	9.76e-10	1	4.39261e-09	0	0.666667	0	false	false	false	false
+211	130	G	peptidase_domain		1.11134	0.478991	0.0292722	0.942314	0.135716	0.84909	0.346868	5	false	false	false	false
+212	131	K	peptidase_domain		2.45791	1.18093	0.014027	0.802578	0.0640285	0	0.666667	0	false	false	false	false
+213	132	V	peptidase_domain		2.77744	0.527522	4.72316e-05	0.998788	0.000212582	0	0.666667	0	false	false	false	false
+214	133	C	peptidase_domain		2.82868	0.254286	8.06104e-08	0.999999	3.62797e-07	6.98202	0.0136423	2	false	true	true	false
+215	134	N	peptidase_domain		1.37818	1.46884	0.261675	0.123084	1.5951	1.4645	0.244167	0	false	false	false	false
+216	135	P	peptidase_domain		2.77162	0.558644	5.52707e-05	0.998885	0.000248766	0	0.666667	0	false	false	false	false
+217	136	D	peptidase_domain		2.75852	2.80929	0.0368169	0.00399647	0.172033	0	0.666667	0	false	false	false	false
+218	137	N	peptidase_domain		2.84359	1.22184	0.000168016	0.986329	0.000756301	0	0.666667	0	false	false	false	false
+219	138	P	peptidase_domain		2.79751	0.675432	5.0637e-05	0.998333	0.000227909	0	0.666667	0	false	false	false	false
+220	139	Q	peptidase_domain		2.8145	1.19601	0.000214371	0.985509	0.000965012	0	0.666667	0	false	false	false	false
+221	140	E	peptidase_domain		2.7994	1.02703	0.000403335	0.988946	0.00181599	0	0.666667	0	false	false	false	false
+222	141	C	peptidase_domain		2.84302	0.168696	2.75849e-09	1	1.24149e-08	0	0.666667	0	false	false	false	false
+223	142	L	peptidase_domain		2.78786	1.72772	0.0109189	0.67158	0.0496841	0.0392932	0.612394	10	false	false	false	false
+224	143	L	peptidase_domain		2.80974	2.26185	0.00279196	0.346043	0.0126007	3.63298	0.0766119	8	false	true	false	false
+225	144	L	peptidase_domain		1.26536	0.0299086	4.63909e-06	0.999987	2.08789e-05	0	0.666667	0	false	false	false	false
+226	145	E	peptidase_domain		2.37454	0.576312	0.00455204	0.976151	0.0205807	3.22949	0.0946421	4	false	true	false	false
+227	146	P	peptidase_domain		0.707925	0.294057	0.0824376	0.870831	0.404354	9.11488	0.00460655	3	false	true	true	false
+228	147	G	peptidase_domain		2.24326	0.112336	7.4732e-07	0.999998	3.36341e-06	0	0.666667	0	false	false	false	false
+229	148	L	peptidase_domain		1.21715	0.0470771	5.35413e-05	0.999874	0.000240982	0	0.666667	0	false	false	false	false
+230	149	N	peptidase_domain		2.70294	0.48635	0.000307787	0.99795	0.00138566	0	0.666667	0	false	false	false	false
+231	150	E	peptidase_domain		1.19549	2.81478	0.934739	2.43408e-06	64.4627	4.04651	0.061761	8	true	true	false	true
+232	151	I	peptidase_domain		7.04275	0.0951449	2.32444e-15	1	1.04614e-14	0	0.666667	0	false	false	false	false
+233	152	M	peptidase_domain		2.44202	0.0190812	0.00202807	0.993312	0.00914613	0	1	0	false	false	false	false
+234	153	A	peptidase_domain		2.81121	1.23702	0.000141424	0.980512	0.000636584	0	0.666667	0	false	false	false	false
+235	154	N	peptidase_domain		2.8143	2.6733	0.00530389	0.0904681	0.0239981	0	0.666667	0	false	false	false	false
+236	155	S	peptidase_domain		2.36278	0.0183426	8.49832e-09	1	3.82477e-08	0	0.666667	0	false	false	false	false
+237	156	L	peptidase_domain		2.79119	2.68503	0.0142991	0.0808748	0.0652882	1.05711	0.307297	1	false	false	false	false
+238	157	D	peptidase_domain		1.40186	0.153425	0.000375191	0.999182	0.00168923	0	0.666667	0	false	false	false	false
+239	158	Y	peptidase_domain		2.74261	0.0353092	3.394e-08	1	1.52751e-07	0	0.666667	0	false	false	false	false
+240	159	N	peptidase_domain		2.81161	2.81465	0.00860201	0.00254057	0.0390503	0	0.666667	0	false	false	false	false
+241	160	E	peptidase_domain		1.09547	2.81114	0.970548	6.91174e-05	148.31	18.7849	3.4951e-05	5	true	true	true	true
+242	161	R	peptidase_domain		2.19799	0.106527	7.23066e-07	0.999998	3.25425e-06	0	0.666667	0	false	false	false	false
+243	162	L	peptidase_domain		1.8916	0.0284459	5.28056e-08	1	2.37658e-07	0	0.666667	0	false	false	false	false
+244	163	W	peptidase_domain		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+245	164	A	peptidase_domain		2.72076	0.64103	0.000371595	0.992897	0.00167303	0	0.666667	0	false	false	false	false
+246	165	W	peptidase_domain		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+247	166	E	peptidase_domain		1.06196	0.122937	0.00319992	0.99338	0.0144479	0	0.666667	0	false	false	false	false
+248	167	S	peptidase_domain		1.09269	0.515248	0.0279901	0.937798	0.1296	0.0318951	0.618343	7	false	false	false	false
+249	168	W	peptidase_domain		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+250	169	R	peptidase_domain		2.81865	0.0207019	1.27582e-12	1	5.74199e-12	0	0.666667	0	false	false	false	false
+251	170	S	peptidase_domain		1.16833	1.13354	0.208028	0.172051	1.18218	0.00334857	0.65221	9	false	false	false	false
+252	171	E	peptidase_domain		2.01952	1.28154	0.071139	0.509468	0.34469	0	0.666667	0	false	false	false	false
+253	172	V	peptidase_domain		3.15899	0.540038	1.32591e-10	1	5.96743e-10	0	0.666667	0	false	false	false	false
+254	173	G	peptidase_domain		0.3144	0.0331998	0.024864	0.925131	0.114757	0	0.666667	0	false	false	false	false
+255	174	K	peptidase_domain		1.1067	0.431804	0.0453616	0.927253	0.213856	0	0.666667	0	false	false	false	false
+256	175	Q	peptidase_domain		2.12317	0.974222	0.0363622	0.756835	0.169828	0	0.666667	0	false	false	false	false
+257	176	L	peptidase_domain		1.28347	0.499478	0.00931845	0.951522	0.0423333	0	0.666667	0	false	false	false	false
+258	177	R	peptidase_domain		2.38906	0.0220696	1.771e-08	1	7.9706e-08	0	0.666667	0	false	false	false	false
+259	178	P	peptidase_domain		2.81323	0.108012	1.34528e-11	1	6.0546e-11	0	0.666667	0	false	false	false	false
+260	179	L	peptidase_domain		2.81595	1.03103	1.79798e-06	0.997896	8.09205e-06	0	0.666667	0	false	false	false	false
+261	180	Y	peptidase_domain		1.46459	0.039195	4.68181e-05	0.999896	0.000210721	0	0.666667	0	false	false	false	false
+262	181	E	peptidase_domain		0.903252	0.131975	0.0135746	0.973134	0.0619349	0	0.666667	0	false	false	false	false
+263	182	E	peptidase_domain		2.83596	0.713919	3.01902e-05	0.998922	0.000135879	0.0858491	0.582117	7	false	false	false	false
+264	183	Y	peptidase_domain		4.45399	0.0353251	4.3808e-12	1	1.97163e-11	0	0.666667	0	false	false	false	false
+265	184	V	peptidase_domain		0.66421	0.0399546	0.00669563	0.983242	0.0303376	0	0.666667	0	false	false	false	false
+266	185	V	peptidase_domain		0.967537	1.63393	0.624486	0.00951405	7.48461	3.78102	0.0709158	12	false	true	false	false
+267	186	L	peptidase_domain		1.63819	0.14251	2.41141e-05	0.99977	0.000108531	0	0.666667	0	false	false	false	false
+268	187	K	peptidase_domain		1.58935	0.11442	7.59297e-05	0.999825	0.000341757	0	0.666667	0	false	false	false	false
+269	188	N	peptidase_domain		2.82378	0.0248336	3.36394e-10	1	1.51398e-09	0	0.666667	0	false	false	false	false
+270	189	E	peptidase_domain		1.24208	0.033155	6.73773e-05	0.999829	0.00030326	0	0.666667	0	false	false	false	false
+271	190	M	peptidase_domain		4.01252	0.341933	0.000384216	0.999308	0.00172988	-1.67042	0.666667	1	false	false	false	false
+272	191	A	peptidase_domain		2.38149	0.0232766	1.07726e-08	1	4.84834e-08	0	0.666667	0	false	false	false	false
+273	192	R	peptidase_domain		0.439843	0.591704	0.665491	0.26645	8.95377	1.25109	0.275158	6	false	false	false	false
+274	193	A	peptidase_domain		2.71323	0.517538	0.000133031	0.997917	0.000598802	0.840052	0.348725	6	false	false	false	false
+275	194	N	peptidase_domain		2.80775	0.325262	4.70756e-07	0.999994	2.11869e-06	-1.29796	0.666667	1	false	false	false	false
+276	195	H	peptidase_domain		1.75037	2.58678	0.568736	0.0523236	5.93526	5.90178	0.0237118	13	false	true	true	false
+277	196	Y	peptidase_domain		2.72264	0.156694	1.36385e-06	0.999992	6.13818e-06	0	0.666667	0	false	false	false	false
+278	197	E	peptidase_domain		2.80058	1.20444	0.000419626	0.981906	0.00188937	0	0.666667	0	false	false	false	false
+279	198	D	peptidase_domain		2.20251	0.0247165	9.34142e-08	1	4.20422e-07	0	0.666667	0	false	false	false	false
+280	199	Y	peptidase_domain		2.93421	0.0351758	2.85786e-10	1	1.28622e-09	0	0.666667	0	false	false	false	false
+281	200	G	peptidase_domain		1.32102	0.0282072	1.41639e-06	0.999996	6.37465e-06	0	0.666667	0	false	false	false	false
+282	201	D	peptidase_domain		1.26225	0.031289	4.87273e-05	0.99987	0.000219314	0	0.666667	0	false	false	false	false
+283	202	Y	peptidase_domain		2.85306	0.0351849	2.16915e-09	1	9.7625e-09	0	0.666667	0	false	false	false	false
+284	203	W	peptidase_domain		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+285	204	R	peptidase_domain		1.03914	0.111377	0.00131057	0.996886	0.00590611	0	0.666667	0	false	false	false	false
+286	205	G	peptidase_domain		1.33554	1.18018	0.115631	0.187397	0.588457	0.972163	0.322754	1	false	false	false	false
+287	206	D	peptidase_domain		1.96402	0.562258	0.0158266	0.953571	0.0723749	-0.0117503	0.666667	7	false	false	false	false
+288	207	Y	peptidase_domain		1.2522	0.0405929	0.000169121	0.999632	0.000761278	0	0.666667	0	false	false	false	false
+289	208	E	peptidase_domain		1.15722	0.176377	0.00368045	0.993076	0.0166255	0	0.666667	0	false	false	false	false
+290	209	V	peptidase_domain		2.61084	1.26524	0.00768315	0.850012	0.0348467	0	0.666667	0	false	false	false	false
+291	210	N	peptidase_domain		3.32291	1.19945	4.5205e-06	0.995062	2.03451e-05	-0.187614	0.666667	8	false	false	false	false
+292	211	G	peptidase_domain		2.54817	1.01942	0.00721783	0.893985	0.0327209	-0.014229	0.666667	8	false	false	false	false
+293	212	V	peptidase_domain		2.51918	7.10009	0.995354	1.78739e-08	964.198	9.69664	0.00342905	10	true	true	true	true
+294	213	D	peptidase_domain		4.05546	2.83127	0.00345577	0.287268	0.015607	0	0.666667	0	false	false	false	false
+295	214	G	peptidase_domain		1.01095	1.10228	0.367616	0.13502	2.6163	0.297417	0.491653	7	false	false	false	false
+296	215	Y	peptidase_domain		2.83089	1.14132	0.000254556	0.986695	0.00114595	-0.0347533	0.666667	1	false	false	false	false
+297	216	D	peptidase_domain		0.705146	2.81491	0.998282	5.05686e-10	2615.38	14.8331	0.000255682	6	true	true	true	true
+298	217	Y	peptidase_domain		6.45773	0.0355327	3.88005e-14	1	1.74626e-13	0	0.666667	0	false	false	false	false
+299	218	S	peptidase_domain		2.17394	2.02364	0.211511	0.299052	1.20728	1.4531	0.24572	1	false	false	false	false
+300	219	R	peptidase_domain		2.81556	0.517321	1.61408e-08	0.999997	7.26436e-08	0	0.666667	0	false	false	false	false
+301	220	G	peptidase_domain		1.32994	2.81478	0.891015	2.99424e-06	36.7952	3.20615	0.0958102	0	false	true	false	false
+302	221	Q	peptidase_domain		2.64641	0.430703	0.00047201	0.997091	0.00212534	0.269426	0.50157	4	false	false	false	false
+303	222	L	peptidase_domain		2.80133	0.296309	1.01111e-06	0.999942	4.55062e-06	18.6752	3.69352e-05	1	false	true	true	false
+304	223	I	peptidase_domain		2.46487	1.50264	0.0556367	0.653696	0.265152	0	0.666667	0	false	false	false	false
+305	224	E	peptidase_domain		1.91968	2.81479	0.546984	1.47008e-05	5.43418	2.06053	0.176215	6	false	false	false	false
+306	225	D	peptidase_domain		2.62169	0.186174	5.71297e-06	0.999981	2.5712e-05	9.64102	0.00352715	1	false	true	true	false
+307	226	V	peptidase_domain		1.55345	0.29372	0.00196943	0.995025	0.00888116	19.9589	1.93659e-05	2	false	true	true	false
+308	227	E	peptidase_domain		2.80272	0.829795	0.000205506	0.994566	0.000925094	3.92202	0.0658933	7	false	true	false	false
+309	228	H	peptidase_domain		7.10825	2.81479	2.33079e-10	0.995993	1.049e-09	0	0.666667	0	false	false	false	false
+310	229	T	peptidase_domain		1.78967	0.852305	0.0203063	0.776046	0.0932854	0	0.666667	0	false	false	false	false
+311	230	F	peptidase_domain		2.76078	0.127711	7.13079e-08	1	3.2093e-07	0	0.666667	0	false	false	false	false
+312	231	E	peptidase_domain		2.25512	2.81484	0.348055	1.15681e-06	2.40275	7.53544	0.0102866	2	false	true	true	false
+313	232	E	peptidase_domain		0.255364	0.758224	0.903645	0.0659802	42.2081	5.09395	0.0359195	6	true	true	true	true
+314		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+315		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+316	233	I	peptidase_domain		1.22705	0.11	0.000285664	0.999345	0.00128603	0	0.666667	0	false	false	false	false
+317	234	K	peptidase_domain		2.02952	0.266661	0.000743219	0.998336	0.00334744	1.28312	0.270235	3	false	false	false	false
+318	235	P	peptidase_domain		2.07322	0.19543	1.55327e-05	0.999954	6.9908e-05	1.5453	0.233471	2	false	false	false	false
+319	236	L	peptidase_domain		2.81227	0.0447204	8.92788e-10	1	4.0181e-09	0	0.666667	0	false	false	false	false
+320	237	Y	peptidase_domain		2.08733	0.0369429	4.14504e-06	0.99999	1.86553e-05	0	0.666667	0	false	false	false	false
+321	238	E	peptidase_domain		2.63995	1.17028	0.00524617	0.905167	0.0237356	0.199585	0.528359	8	false	false	false	false
+322		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+323	239	H	peptidase_domain		1.83666	1.44706	0.164335	0.362382	0.885053	0	0.666667	0	false	false	false	false
+324	240	L	peptidase_domain		1.66119	0.0301721	3.31516e-07	0.999999	1.49203e-06	0	0.666667	0	false	false	false	false
+325	241	H	peptidase_domain		2.60582	0.0220011	1.21877e-08	1	5.48522e-08	0	0.666667	0	false	false	false	false
+326	242	A	peptidase_domain		2.1876	0.155116	2.9334e-06	0.999989	1.32022e-05	0	0.666667	0	false	false	false	false
+327	243	Y	peptidase_domain		2.80801	0.157643	2.17143e-07	0.999998	9.77277e-07	0	0.666667	0	false	false	false	false
+328	244	V	peptidase_domain		0.846158	0.0383287	0.0017563	0.995657	0.00791837	0	0.666667	0	false	false	false	false
+329	245	R	peptidase_domain		2.75977	0.0208209	2.75808e-10	1	1.24131e-09	0	0.666667	0	false	false	false	false
+330	246	A	peptidase_domain		2.71782	2.81466	0.0607455	9.65606e-05	0.291074	0.396751	0.459321	10	false	false	false	false
+331	247	K	peptidase_domain		1.63402	0.116414	7.81176e-05	0.999821	0.000351605	0	0.666667	0	false	false	false	false
+332	248	L	peptidase_domain		2.79955	0.377813	2.70262e-06	0.999872	1.21635e-05	0	0.666667	0	false	false	false	false
+333	249	M	peptidase_domain		9.38876	0.790536	0.00666068	0.979844	0.0301782	0	0.666667	0	false	false	false	false
+334	250	N	peptidase_domain		3.53643	2.81472	0.000230245	0.16755	0.00103648	0	0.666667	0	false	false	false	false
+335	251	A	peptidase_domain		1.27144	2.84566	0.943611	3.16522e-11	75.3133	12.5462	0.000810778	11	true	true	true	true
+336	252	Y	peptidase_domain		2.75073	0.245564	4.8002e-06	0.999953	2.1604e-05	0	0.666667	0	false	false	false	false
+337	253	P	peptidase_domain		2.37152	0.284563	4.31174e-05	0.999855	0.000194064	5.64487	0.0270543	2	false	true	true	false
+338		-	alignment_gap_relative_to_human		3.7298	15.5095	0.692274	0.0995912	10.1248	0.170629	0.540548	0	false	false	false	false
+339	254	S	peptidase_domain		1.20737	1.13177	0.146271	0.199311	0.771103	10.1571	0.00271515	7	false	true	true	false
+340	255	Y	peptidase_domain		2.75675	2.81513	0.0367109	0.000117906	0.171518	0.379819	0.464556	7	false	false	false	false
+341	256	I	peptidase_domain		0.879394	0.553803	0.149725	0.779819	0.792516	0	0.666667	0	false	false	false	false
+342	257	S	peptidase_domain		2.82264	0.788871	6.458e-05	0.998033	0.000290669	0	0.666667	0	false	false	false	false
+343	258	P	peptidase_domain		5.0056	0.681278	5.75404e-10	1	2.58967e-09	0	0.666667	0	false	false	false	false
+344	259	I	peptidase_domain		1.45441	0.507339	0.0148879	0.961383	0.0680173	1.66772	0.218238	4	false	false	false	false
+345	260	G	peptidase_domain		2.72736	0.0246061	1.24815e-09	1	5.61744e-09	0	0.666667	0	false	false	false	false
+346	261	C	peptidase_domain		2.40894	0.505956	0.00174644	0.991865	0.00787381	0	0.666667	0	false	false	false	false
+347	262	L	peptidase_domain		1.92406	0.240748	6.1887e-05	0.999729	0.000278547	0	0.666667	0	false	false	false	false
+348	263	P	peptidase_domain		1.18853	0.0242084	3.85917e-06	0.999987	1.73687e-05	0	0.666667	0	false	false	false	false
+349	264	A	peptidase_domain		2.70035	0.11563	1.43355e-08	1	6.45188e-08	0	0.666667	0	false	false	false	false
+350	265	H	peptidase_domain		1.26761	0.0271595	2.51426e-05	0.999924	0.00011316	0	0.666667	0	false	false	false	false
+351	266	L	peptidase_domain		1.11326	0.157261	0.00221757	0.995729	0.0100026	0	0.666667	0	false	false	false	false
+352	267	L	peptidase_domain		1.25903	0.10675	7.36581e-05	0.999822	0.000331531	0	0.666667	0	false	false	false	false
+353		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+354		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+355		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+356		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+357		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+358		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+359		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+360	268	G	peptidase_domain		1.40884	0.02783	1.05291e-06	0.999997	4.73876e-06	0	0.666667	0	false	false	false	false
+361	269	D	peptidase_domain		2.84789	0.187928	2.02476e-08	1	9.11268e-08	2.01288	0.180814	1	false	false	false	false
+362	270	M	peptidase_domain		9.83927	0.102672	0.00109884	0.998083	0.00495092	0	0.666667	0	false	false	false	false
+363	271	W	peptidase_domain		33.9452	0.199242	0.000554136	0.999261	0.00249534	0	0.666667	0	false	false	false	false
+364	272	G	peptidase_domain		2.23303	0.16011	6.12473e-06	0.99998	2.75653e-05	3.26509	0.0928887	1	false	true	false	false
+365	273	R	peptidase_domain		1.31818	0.144168	0.000213056	0.999512	0.000959087	5.78993	0.0251125	1	false	true	true	false
+366	274	F	peptidase_domain		0.951966	0.0341196	0.0013822	0.996321	0.00622939	0	0.666667	0	false	false	false	false
+367	275	W	peptidase_domain		3.07684	0.257285	0.0561914	0.928333	0.267953	0	0.666667	0	false	false	false	false
+368	276	T	peptidase_domain		1.0558	0.216713	0.00345282	0.993116	0.0155937	6.55773	0.0169456	2	false	true	true	false
+369	277	N	peptidase_domain		1.17802	0.335795	0.0183384	0.96933	0.084076	3.34806	0.0889317	3	false	true	false	false
+370	278	L	peptidase_domain		2.78901	0.487247	1.25313e-05	0.999	5.63993e-05	2.73099	0.123118	3	false	false	false	false
+371	279	Y	peptidase_domain		2.27559	0.146873	2.02691e-05	0.999929	9.12253e-05	0	0.666667	0	false	false	false	false
+372	280	S	peptidase_domain		2.77198	2.54343	0.0222457	0.16603	0.102397	4.67716	0.0445402	3	false	true	true	false
+373	281	L	peptidase_domain		1.89026	0.874658	0.022504	0.739269	0.103614	0.0668024	0.593437	5	false	false	false	false
+374	282	T	peptidase_domain		0.767927	0.410194	0.134907	0.812018	0.70185	8.97427	0.00494745	4	false	true	true	false
+375	283	V	peptidase_domain		2.72928	0.719991	0.000433713	0.987653	0.00195282	0.309672	0.487435	5	false	false	false	false
+376	284	P	peptidase_domain		1.15873	0.0962771	2.90919e-05	0.999916	0.000130935	0	0.666667	0	false	false	false	false
+377	285	F	peptidase_domain		1.809	1.03251	0.0693664	0.607818	0.335462	0	0.666667	0	false	false	false	false
+378	286	G	peptidase_domain		1.03913	2.81482	0.994693	1.45388e-08	843.597	19.6107	2.30722e-05	3	true	true	true	true
+379	287	Q	peptidase_domain		2.54458	2.80829	0.167382	0.00359661	0.904766	-0.00540198	0.666667	12	false	false	false	false
+380	288	K	peptidase_domain		1.35378	0.169419	0.00113843	0.997717	0.00512949	0	0.666667	0	false	false	false	false
+381	289	P	peptidase_domain		2.50388	0.398501	0.000113235	0.999454	0.000509685	4.61642	0.0459612	5	false	true	true	false
+382	290	N	peptidase_domain		0.995219	0.228843	0.0107943	0.980434	0.0491112	0	0.666667	0	false	false	false	false
+383	291	I	peptidase_domain		2.83969	0.118063	1.35448e-07	1	6.096e-07	13.2012	0.000582434	1	false	true	true	false
+384	292	D	peptidase_domain		1.12832	0.0323377	0.000218164	0.999419	0.000982085	0	0.666667	0	false	false	false	false
+385	293	V	peptidase_domain		1.64696	0.182103	0.000181258	0.999512	0.000815921	0	0.666667	0	false	false	false	false
+386	294	T	peptidase_domain		2.81686	0.115599	5.86432e-11	1	2.63931e-10	0	0.666667	0	false	false	false	false
+387	295	D	peptidase_domain		2.62274	2.81421	0.120598	0.000866111	0.6172	1.52694	0.235855	1	false	false	false	false
+388	296	A	peptidase_domain		1.41572	2.13584	0.530999	0.0621446	5.09556	1.32108	0.26453	0	false	false	false	false
+389	297	M	peptidase_domain		2.7234	0.0983327	0.0126191	0.979384	0.0575198	0	0.666667	0	false	false	false	false
+390	298	V	peptidase_domain		1.24612	2.81483	0.936173	6.61257e-07	66.0125	16.568	0.000106672	3	true	true	true	true
+391	299	D	peptidase_domain		2.72479	2.81492	0.0570561	0.000320051	0.272325	0.0649726	0.594587	11	false	false	false	false
+392		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+393		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+394		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+395		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+396		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+397		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+398	300	Q	peptidase_domain		0.286637	0.264135	0.515728	0.391616	4.79296	1.19989	0.283245	2	false	false	false	false
+399	301	A	peptidase_domain		1.42582	2.81527	0.854801	1.21437e-09	26.4955	9.31568	0.00416015	17	false	true	true	false
+400	302	W	peptidase_domain		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+401	303	D	peptidase_domain		1.13803	1.31084	0.353468	0.0626603	2.46055	0.675106	0.385005	5	false	false	false	false
+402	304	A	peptidase_domain		1.72674	0.218168	0.000123378	0.999664	0.000555348	0	0.666667	0	false	false	false	false
+403	305	Q	peptidase_domain		2.7598	2.82009	0.0384318	0.00109258	0.17988	0.533243	0.420427	10	false	false	false	false
+404	306	R	peptidase_domain		1.44452	0.793609	0.0683301	0.747067	0.330083	0	0.666667	0	false	false	false	false
+405	307	I	peptidase_domain		2.38136	0.106319	2.42169e-06	0.999993	1.08991e-05	0	0.666667	0	false	false	false	false
+406	308	F	peptidase_domain		1.46421	0.0285807	3.96659e-06	0.999989	1.78522e-05	0	0.666667	0	false	false	false	false
+407	309	K	peptidase_domain		2.84819	1.29648	0.000183445	0.947794	0.000825766	0	0.666667	0	false	false	false	false
+408	310	E	peptidase_domain		2.78168	0.13274	6.64304e-08	1	2.98978e-07	0	0.666667	0	false	false	false	false
+409	311	A	peptidase_domain		2.70129	0.0220931	1.07093e-09	1	4.81983e-09	0	0.666667	0	false	false	false	false
+410	312	E	peptidase_domain		1.19688	0.119267	0.000935517	0.99803	0.00421435	0	0.666667	0	false	false	false	false
+411	313	K	peptidase_domain		2.72978	1.16404	0.0022757	0.952691	0.0102654	0.000446871	0.661525	11	false	false	false	false
+412	314	F	peptidase_domain		1.33512	0.0284326	5.17924e-06	0.999985	2.33099e-05	0	0.666667	0	false	false	false	false
+413	315	F	peptidase_domain		1.40918	0.114783	0.00021904	0.999514	0.000986033	0	0.666667	0	false	false	false	false
+414	316	V	peptidase_domain		2.82234	2.47551	0.000536721	0.214796	0.00241687	0	0.666667	0	false	false	false	false
+415	317	S	peptidase_domain		1.25319	0.106334	7.29828e-05	0.999823	0.000328492	0	0.666667	0	false	false	false	false
+416	318	V	peptidase_domain		1.26665	0.925342	0.113366	0.532509	0.575452	0	0.666667	0	false	false	false	false
+417	319	G	peptidase_domain		2.52373	1.04738	0.00438696	0.882121	0.019831	0	0.666667	0	false	false	false	false
+418	320	L	peptidase_domain		1.31016	0.0293787	1.97525e-06	0.999994	8.88988e-06	0	0.666667	0	false	false	false	false
+419	321	P	peptidase_domain		1.18973	1.14777	0.19928	0.160083	1.1201	17.8127	5.70054e-05	5	false	true	true	false
+420	322	N	peptidase_domain	catalytic_region:catalysis	2.82965	2.81481	0.00589867	0.00562768	0.0267052	0	0.666667	0	false	false	false	false
+421	323	M	peptidase_domain		2.35917	0.0982038	0.0132273	0.978406	0.0603291	0.00356432	0.651732	1	false	false	false	false
+422	324	T	peptidase_domain		1.87457	0.0245982	1.26925e-07	1	5.71241e-07	0	0.666667	0	false	false	false	false
+423	325	Q	peptidase_domain		1.13983	2.06673	0.651179	0.0252049	8.40174	2.11148	0.171435	11	false	false	false	false
+424	326	G	peptidase_domain		1.02977	1.10769	0.346278	0.135465	2.38399	9.95343	0.00301043	3	false	true	true	false
+425	327	F	peptidase_domain		0.822989	0.0305441	0.00191279	0.994338	0.00862522	0	0.666667	0	false	false	false	false
+426	328	W	peptidase_domain		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+427	329	E	peptidase_domain		2.05059	3.11751	0.495072	1.92816e-05	4.41277	4.59101	0.0465693	15	false	true	true	false
+428	330	N	peptidase_domain		1.75387	0.571738	0.0188764	0.945199	0.0865899	0	0.666667	0	false	false	false	false
+429	331	S	peptidase_domain		1.62183	0.0290182	1.67668e-07	0.999999	7.54608e-07	0	0.666667	0	false	false	false	false
+430	332	M	peptidase_domain		2.10679	0.129581	0.0234654	0.965363	0.108147	0.0110333	0.639553	2	false	false	false	false
+431	333	L	peptidase_domain		1.48207	0.129934	1.65892e-05	0.999876	7.46628e-05	0	0.666667	0	false	false	false	false
+432	334	T	peptidase_domain		2.52472	0.489982	0.000571327	0.996246	0.0025728	11.9598	0.00109039	4	false	true	true	false
+433	335	D	peptidase_domain		2.51419	0.795313	0.0069328	0.941183	0.0314197	0.227583	0.517226	8	false	false	false	false
+434	336	P	peptidase_domain		1.1446	0.0978371	9.43383e-05	0.999736	0.000424621	0	0.666667	0	false	false	false	false
+435	337	G	peptidase_domain		2.79726	2.81436	0.0111191	0.000318758	0.0506054	1.09531	0.300635	0	false	false	false	false
+436	338	N	peptidase_domain		2.84722	1.14455	9.19562e-05	0.995518	0.000413898	0.524065	0.422879	13	false	false	false	false
+437	339	V	peptidase_domain		2.14949	1.20717	0.0191546	0.610415	0.0878912	7.91577	0.00847478	11	false	true	true	false
+438	340	Q	peptidase_domain		2.54233	0.891821	0.00304487	0.926631	0.0137457	0	0.666667	0	false	false	false	false
+439	341	K	peptidase_domain		0.957674	0.899275	0.350117	0.375429	2.42465	0.00884185	0.642575	7	false	false	false	false
+440	342	A	peptidase_domain		2.64813	0.135515	3.37723e-07	0.999998	1.51996e-06	0	0.666667	0	false	false	false	false
+441	343	V	peptidase_domain		0.923892	0.381931	0.042655	0.930929	0.200528	3.155	0.0984215	3	false	true	false	false
+442	344	C	peptidase_domain		1.88492	0.0251075	2.71804e-07	0.999999	1.22329e-06	0	0.666667	0	false	false	false	false
+443	345	H	peptidase_domain	catalytic_region:catalysis	4.28863	0.0204417	3.22577e-15	1	1.4518e-14	0	0.666667	0	false	false	false	false
+444	346	P	peptidase_domain		1.41073	0.0235889	5.66844e-08	1	2.55115e-07	0	0.666667	0	false	false	false	false
+445	347	T	peptidase_domain		1.04948	0.109164	0.000698902	0.998269	0.00314769	0	0.666667	0	false	false	false	false
+446	348	A	peptidase_domain		2.83024	0.0216867	1.05543e-13	1	4.75008e-13	0	0.666667	0	false	false	false	false
+447	349	W	peptidase_domain		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+448	350	D	peptidase_domain		2.43995	0.116294	1.03e-06	0.999997	4.63563e-06	0	0.666667	0	false	false	false	false
+449	351	L	peptidase_domain		1.34127	0.222775	0.000343524	0.99764	0.0015466	0	0.666667	0	false	false	false	false
+450	352	G	peptidase_domain		1.1901	0.151571	0.000460339	0.998985	0.00207276	5.51737	0.0288861	1	false	true	true	false
+451	353	K	peptidase_domain		3.31281	1.15296	3.64273e-06	0.99891	1.63946e-05	0.5597	0.413477	9	false	false	false	false
+452	354	G	peptidase_domain		7.11445	2.81489	1.05784e-07	0.997383	4.76092e-07	1.23649	0.277437	15	false	false	false	false
+453	355	D	peptidase_domain		2.01443	0.0258452	2.83507e-07	0.999999	1.27596e-06	0	0.666667	0	false	false	false	false
+454	356	F	peptidase_domain		0.238729	0.143073	0.398114	0.460766	2.97691	0.516713	0.424858	1	false	false	false	false
+455	357	R	peptidase_domain		1.15422	0.0267218	1.7184e-05	0.999947	7.734e-05	0	0.666667	0	false	false	false	false
+456	358	I	peptidase_domain		0.966526	0.0316332	0.000297681	0.999176	0.00134015	0	0.666667	0	false	false	false	false
+457	359	L	peptidase_domain		2.12666	0.708357	0.0239395	0.897206	0.110385	37.7609	2.55512e-09	4	false	true	true	false
+458	360	M	peptidase_domain		2.44202	0.0190812	0.00202807	0.993312	0.00914613	0	1	0	false	false	false	false
+459	361	C	peptidase_domain		1.22553	0.0276698	1.37041e-05	0.999959	6.1678e-05	0	0.666667	0	false	false	false	false
+460	362	T	peptidase_domain		1.40944	0.0263322	3.93825e-07	0.999999	1.77246e-06	0	0.666667	0	false	false	false	false
+461	363	K	peptidase_domain		2.79688	0.279172	1.29408e-06	0.999989	5.82419e-06	0	0.666667	0	false	false	false	false
+462	364	V	peptidase_domain		1.39459	0.177128	0.000297085	0.99926	0.00133747	5.71	0.0261644	1	false	true	true	false
+463	365	T	peptidase_domain		2.82523	0.378899	1.48652e-09	1	6.69027e-09	0	0.666667	0	false	false	false	false
+464	366	M	peptidase_domain		2.44202	0.0190812	0.00202807	0.993312	0.00914613	0	1	0	false	false	false	false
+465	367	D	peptidase_domain		2.85947	0.3461	1.17231e-07	0.999997	5.27612e-07	-0.252609	0.666667	2	false	false	false	false
+466	368	D	peptidase_domain		2.06205	0.450644	0.00308079	0.990787	0.0139083	0	0.666667	0	false	false	false	false
+467	369	F	peptidase_domain		1.36232	0.232513	0.00171899	0.996534	0.00774986	0	0.666667	0	false	false	false	false
+468	370	L	peptidase_domain		1.13745	0.0451587	7.38052e-05	0.99984	0.000332194	0	0.666667	0	false	false	false	false
+469	371	T	peptidase_domain		1.80727	0.0248495	9.44349e-08	1	4.25016e-07	0	0.666667	0	false	false	false	false
+470	372	A	peptidase_domain		2.79226	0.0217565	2.60955e-11	1	1.17446e-10	0	0.666667	0	false	false	false	false
+471	373	H	peptidase_domain		2.56375	0.11246	3.27873e-07	0.999999	1.47563e-06	0	0.666667	0	false	false	false	false
+472	374	H	peptidase_domain	catalytic_region:catalysis	11.1404	0.113124	9.8435e-24	1	4.43019e-23	0	0.666667	0	false	false	false	false
+473	375	E	peptidase_domain	catalytic_region:catalysis	1.40156	0.0324067	1.89722e-05	0.999952	8.53884e-05	0	0.666667	0	false	false	false	false
+474	376	M	peptidase_domain		2.44202	0.0190812	0.00202807	0.993312	0.00914613	0	1	0	false	false	false	false
+475	377	G	peptidase_domain		2.74946	0.0241944	7.60442e-10	1	3.42246e-09	0	0.666667	0	false	false	false	false
+476	378	H	peptidase_domain		2.8349	0.0191203	2.22488e-12	1	1.00133e-11	0	0.666667	0	false	false	false	false
+477	379	I	peptidase_domain		1.24529	0.10618	5.02562e-05	0.999877	0.000226195	0	0.666667	0	false	false	false	false
+478	380	Q	peptidase_domain		2.06136	0.217149	0.000350663	0.999097	0.00157876	0	0.666667	0	false	false	false	false
+479	381	Y	peptidase_domain		2.41677	0.0360706	1.03251e-06	0.999997	4.64694e-06	0	0.666667	0	false	false	false	false
+480	382	D	peptidase_domain		1.35189	0.310951	0.00441317	0.991435	0.0199501	2.19778	0.163651	4	false	false	false	false
+481	383	M	peptidase_domain		2.44202	0.0190812	0.00202807	0.993312	0.00914613	0	1	0	false	false	false	false
+482	384	A	peptidase_domain		3.40758	0.114451	1.38157e-14	1	6.21794e-14	0	0.666667	0	false	false	false	false
+483	385	Y	peptidase_domain		0.728819	0.047888	0.0134291	0.970171	0.0612618	0	0.666667	0	false	false	false	false
+484	386	A	peptidase_domain		2.80959	0.444047	4.45728e-07	0.999974	2.00605e-06	0.680451	0.383753	5	false	false	false	false
+485	387	A	peptidase_domain		2.79609	7.12442	0.999679	8.83972e-08	14018.3	5.07099	0.036347	0	true	true	true	true
+486	388	Q	peptidase_domain		2.99606	0.0326061	5.16678e-11	1	2.32537e-10	0	0.666667	0	false	false	false	false
+487	389	P	peptidase_domain		1.15491	0.0969179	4.9446e-05	0.99986	0.000222548	0	0.666667	0	false	false	false	false
+488	390	F	peptidase_domain		1.50706	1.20028	0.118488	0.268484	0.60495	-0.0222079	0.666667	0	false	false	false	false
+489	391	L	peptidase_domain		1.16384	0.232743	0.001575	0.995105	0.00709967	3.06106	0.103411	1	false	false	false	false
+490	392	L	peptidase_domain		1.32537	0.343128	0.00151145	0.988249	0.00681275	0	0.666667	0	false	false	false	false
+491	393	R	peptidase_domain		1.3226	0.143099	0.000201723	0.999536	0.000908063	0	0.666667	0	false	false	false	false
+492	394	N	peptidase_domain		2.78083	1.24055	0.00112247	0.960844	0.00505747	0	0.666667	0	false	false	false	false
+493	395	G	peptidase_domain		1.13677	0.0307488	2.2301e-05	0.999939	0.000100371	0	0.666667	0	false	false	false	false
+494	396	A	peptidase_domain		2.61186	0.0224239	2.43305e-09	1	1.09502e-08	0	0.666667	0	false	false	false	false
+495	397	N	peptidase_domain		2.8458	0.0248259	2.17988e-10	1	9.81081e-10	0	0.666667	0	false	false	false	false
+496	398	E	peptidase_domain		1.08722	0.0334821	0.000302107	0.999213	0.00136008	0	0.666667	0	false	false	false	false
+497	399	G	peptidase_domain		2.81782	0.0228634	1.30662e-12	1	5.88062e-12	0	0.666667	0	false	false	false	false
+498	400	F	peptidase_domain		1.00036	0.0299449	0.000346041	0.998993	0.00155794	0	0.666667	0	false	false	false	false
+499	401	H	peptidase_domain		2.81943	0.021406	1.10694e-10	1	4.98191e-10	0	0.666667	0	false	false	false	false
+500	402	E	peptidase_domain		2.80824	0.0266989	6.20316e-10	1	2.79181e-09	0	0.666667	0	false	false	false	false
+501	403	A	peptidase_domain		2.3807	0.0232801	1.65399e-08	1	7.44398e-08	0	0.666667	0	false	false	false	false
+502	404	V	peptidase_domain		2.72811	0.207489	1.21052e-06	0.999989	5.4481e-06	0	0.666667	0	false	false	false	false
+503	405	G	peptidase_domain		1.34717	0.0285325	1.418e-06	0.999996	6.38187e-06	0	0.666667	0	false	false	false	false
+504	406	E	peptidase_domain		2.81462	0.0266237	5.67992e-10	1	2.55631e-09	0	0.666667	0	false	false	false	false
+505	407	I	peptidase_domain		0.96984	0.179659	0.00626699	0.987963	0.0283832	1.44916	0.246259	2	false	false	false	false
+506	408	M	peptidase_domain		2.09843	0.1296	0.0233697	0.965503	0.107695	0.00856273	0.642982	2	false	false	false	false
+507	409	S	peptidase_domain		1.3806	0.0374323	6.12675e-06	0.999984	2.75743e-05	0	0.666667	0	false	false	false	false
+508	410	L	peptidase_domain		2.56353	0.0259121	9.42021e-09	1	4.23968e-08	0	0.666667	0	false	false	false	false
+509	411	S	peptidase_domain		2.6703	0.0253124	5.79358e-09	1	2.60747e-08	0	0.666667	0	false	false	false	false
+510	412	A	peptidase_domain		0.996598	0.517403	0.0668752	0.887858	0.32255	0.0777974	0.586769	7	false	false	false	false
+511	413	A	peptidase_domain		2.81157	0.381939	1.29685e-07	0.999995	5.83664e-07	4.17053	0.057907	4	false	true	false	false
+512	414	T	peptidase_domain		2.8165	0.0210971	2.04279e-13	1	9.19384e-13	0	0.666667	0	false	false	false	false
+513	415	P	peptidase_domain		2.8176	0.0183009	1.88768e-13	1	8.49573e-13	0	0.666667	0	false	false	false	false
+514	416	K	peptidase_domain		2.6204	2.49522	0.102259	0.181332	0.512655	-0.000694543	0.666667	0	false	false	false	false
+515	417	H	peptidase_domain		2.62094	0.115245	2.80137e-07	0.999999	1.26079e-06	0	0.666667	0	false	false	false	false
+516	418	L	peptidase_domain		2.80539	0.0432853	1.5228e-09	1	6.85353e-09	0	0.666667	0	false	false	false	false
+517	419	K	peptidase_domain		2.15065	0.503506	0.00596595	0.980142	0.0270116	0	0.666667	0	false	false	false	false
+518	420	S	peptidase_domain		2.60071	1.24542	0.00554341	0.854265	0.0250879	-0.305215	0.666667	0	false	false	false	false
+519	421	I	peptidase_domain		1.54168	0.721967	0.0481831	0.822738	0.227832	0	0.666667	0	false	false	false	false
+520	422	G	peptidase_domain		1.23161	0.104042	6.4791e-05	0.999839	0.000291619	0	0.666667	0	false	false	false	false
+521	423	L	peptidase_domain		1.96027	0.0271305	1.02664e-07	1	4.6205e-07	0	0.666667	0	false	false	false	false
+522	424	L	peptidase_domain		1.09513	0.0460961	0.000150483	0.999685	0.00067737	0	0.666667	0	false	false	false	false
+523	425	S	peptidase_domain		2.64718	0.728192	0.00114089	0.978864	0.00514059	0	0.666667	0	false	false	false	false
+524	426	P	peptidase_domain		2.87516	2.6433	9.12255e-05	0.120547	0.000410609	0	0.666667	0	false	false	false	false
+525	427	D	peptidase_domain		2.39066	1.23474	0.0208166	0.737869	0.0956793	0.862311	0.344172	14	false	false	false	false
+526	428	F	peptidase_domain		1.6414	0.115076	6.90859e-05	0.99984	0.000310951	0	0.666667	0	false	false	false	false
+527	429	Q	peptidase_domain		2.41901	2.81489	0.24521	5.56071e-05	1.46212	1.13634	0.293667	8	false	false	false	false
+528	430	E	peptidase_domain		2.09929	0.590688	0.0161988	0.948097	0.0741049	0.180127	0.536466	3	false	false	false	false
+529	431	D	peptidase_domain		2.77983	0.17877	1.38818e-07	0.999999	6.24766e-07	0.403105	0.457383	1	false	false	false	false
+530	432	N	peptidase_domain		1.96445	5.87343	0.868491	1.55982e-06	29.7222	5.18768	0.0342262	10	false	true	true	false
+531	433	E	peptidase_domain		1.09494	0.511773	0.0764551	0.876414	0.372581	0.358242	0.47138	5	false	false	false	false
+532	434	T	peptidase_domain		1.06162	0.108334	0.000614136	0.998476	0.00276569	0	0.666667	0	false	false	false	false
+533	435	E	peptidase_domain		2.24237	1.12345	0.0338711	0.719838	0.157785	0	0.666667	0	false	false	false	false
+534	436	I	peptidase_domain		2.17023	0.152715	7.04974e-05	0.999844	0.000317305	0	0.666667	0	false	false	false	false
+535	437	N	peptidase_domain		1.12079	0.0284067	6.01968e-05	0.999822	0.000270939	0	0.666667	0	false	false	false	false
+536	438	F	peptidase_domain		1.89789	0.0262649	3.66463e-07	0.999999	1.64931e-06	0	0.666667	0	false	false	false	false
+537	439	L	peptidase_domain		2.75424	0.0390463	4.87138e-09	1	2.19242e-08	0	0.666667	0	false	false	false	false
+538	440	L	peptidase_domain		0.979927	0.407991	0.0305149	0.947559	0.141659	0	0.666667	0	false	false	false	false
+539	441	K	peptidase_domain		2.84715	0.0259977	1.13813e-10	1	5.12229e-10	0	0.666667	0	false	false	false	false
+540	442	Q	peptidase_domain		1.65442	0.0359325	1.17273e-05	0.999972	5.27808e-05	0	0.666667	0	false	false	false	false
+541	443	A	peptidase_domain		2.80992	0.0216927	3.90377e-12	1	1.75694e-11	0	0.666667	0	false	false	false	false
+542	444	L	peptidase_domain		1.33516	0.0313067	2.64199e-06	0.999994	1.18906e-05	0	0.666667	0	false	false	false	false
+543	445	T	peptidase_domain		4.69855	0.863654	1.70441e-09	0.999997	7.67089e-09	18.0435	5.07533e-05	5	false	true	true	false
+544	446	I	peptidase_domain		1.51242	0.164434	0.000279457	0.999376	0.00125808	0	0.666667	0	false	false	false	false
+545	447	V	peptidase_domain		0.643221	0.225953	0.0947927	0.852472	0.471302	-0.0522454	0.666667	2	false	false	false	false
+546	448	G	peptidase_domain		1.12203	0.242116	0.00298559	0.994073	0.0134772	0	0.666667	0	false	false	false	false
+547	449	T	peptidase_domain		5.5287	0.103494	1.61791e-15	1	7.28159e-15	0	0.666667	0	false	false	false	false
+548	450	L	peptidase_domain		2.80192	0.247664	9.28815e-08	0.999992	4.18024e-07	0	0.666667	0	false	false	false	false
+549	451	P	peptidase_domain		6.91408	0.0216905	4.13862e-21	1	1.86264e-20	0	0.666667	0	false	false	false	false
+550	452	F	peptidase_domain		2.77293	0.0256568	2.16139e-09	1	9.72758e-09	0	0.666667	0	false	false	false	false
+551	453	T	peptidase_domain		1.25673	0.10071	4.03531e-05	0.999895	0.000181621	0	0.666667	0	false	false	false	false
+552	454	Y	peptidase_domain		0.972274	0.337958	0.0398543	0.937228	0.186814	-0.00756858	0.666667	3	false	false	false	false
+553	455	M	peptidase_domain		2.44202	0.0190812	0.00202807	0.993312	0.00914613	0	1	0	false	false	false	false
+554	456	L	peptidase_domain		2.81315	0.0437399	2.34361e-10	1	1.05477e-09	0	0.666667	0	false	false	false	false
+555	457	E	peptidase_domain		1.50253	0.0316965	1.37672e-05	0.999965	6.1962e-05	0	0.666667	0	false	false	false	false
+556	458	K	peptidase_domain		2.38705	0.187098	3.24577e-05	0.99991	0.000146085	0	0.666667	0	false	false	false	false
+557	459	W	peptidase_domain		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+558	460	R	peptidase_domain		2.79231	0.0207989	6.35366e-11	1	2.85954e-10	0	0.666667	0	false	false	false	false
+559	461	W	peptidase_domain		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+560	462	M	peptidase_domain		3.79577	0.277408	0.00493766	0.992499	0.0223328	1.6862	0.216035	2	false	false	false	false
+561	463	V	peptidase_domain		1.15246	0.179025	0.000811732	0.99823	0.00365627	0	0.666667	0	false	false	false	false
+562	464	F	peptidase_domain		2.93203	0.0257077	5.03275e-11	1	2.26505e-10	0	0.666667	0	false	false	false	false
+563	465	K	peptidase_domain		2.75025	1.58397	0.0154663	0.745886	0.0707014	1.04013	0.310315	13	false	false	false	false
+564	466	G	peptidase_domain		2.76108	0.394161	1.2057e-05	0.999866	5.42646e-05	0.420691	0.452089	4	false	false	false	false
+565	467	E	peptidase_domain		1.12485	0.947977	0.249524	0.410125	1.4964	0	0.666667	0	false	false	false	false
+566	468	I	peptidase_domain		1.89494	0.114566	1.1869e-05	0.999969	5.34185e-05	0	0.666667	0	false	false	false	false
+567	469	P	peptidase_domain		1.00528	0.141415	0.00140071	0.9967	0.00631293	0	0.666667	0	false	false	false	false
+568	470	K	peptidase_domain		1.7654	0.491429	0.0138004	0.9669	0.0629797	0	0.666667	0	false	false	false	false
+569	471	D	peptidase_domain		2.77224	1.35956	0.00394069	0.885678	0.0178057	0	0.666667	0	false	false	false	false
+570	472	Q	peptidase_domain		2.49431	0.832577	0.00784479	0.926362	0.0355856	-0.991366	0.666667	8	false	false	false	false
+571	473	W	peptidase_domain		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+572	474	M	peptidase_domain		6.78823	0.881114	0.0226312	0.93504	0.104213	0	0.666667	0	false	false	false	false
+573	475	K	peptidase_domain		2.79779	2.0615	0.00753346	0.467435	0.0341626	0.182284	0.535551	14	false	false	false	false
+574	476	K	peptidase_domain		2.0577	0.366494	0.00274996	0.993544	0.0124107	3.06189	0.103366	4	false	false	false	false
+575	477	W	peptidase_domain		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+576	478	W	peptidase_domain		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+577	479	E	peptidase_domain		2.59654	0.194878	9.64385e-06	0.999966	4.34037e-05	0	0.666667	0	false	false	false	false
+578	480	M	peptidase_domain		2.44202	0.0190812	0.00202807	0.993312	0.00914613	0	1	0	false	false	false	false
+579	481	K	peptidase_domain		1.18721	0.117497	0.000888857	0.998102	0.00400397	0	0.666667	0	false	false	false	false
+580	482	R	peptidase_domain		1.11224	0.4197	0.0157703	0.962267	0.0721134	0	0.666667	0	false	false	false	false
+581	483	E	peptidase_domain		2.32456	1.2092	0.0259082	0.714989	0.119704	0.349765	0.474111	1	false	false	false	false
+582	484	I	peptidase_domain		3.9408	0.301892	2.49233e-09	1	1.1217e-08	0	0.666667	0	false	false	false	false
+583	485	V	peptidase_domain		2.82097	0.138987	4.96462e-11	1	2.23439e-10	0	0.666667	0	false	false	false	false
+584	486	G	peptidase_domain		2.9328	0.0229931	1.2253e-14	1	5.51463e-14	0	0.666667	0	false	false	false	false
+585	487	V	peptidase_domain		1.48602	0.0331909	2.03924e-06	0.999995	9.17785e-06	0	0.666667	0	false	false	false	false
+586	488	V	peptidase_domain		2.34498	1.03821	0.013165	0.813269	0.0600409	-0.00410277	0.666667	1	false	false	false	false
+587	489	E	peptidase_domain		2.83359	0.131937	1.2054e-08	1	5.42506e-08	0	0.666667	0	false	false	false	false
+588	490	P	peptidase_domain		2.16041	0.101517	2.46016e-07	0.999999	1.10722e-06	0	0.666667	0	false	false	false	false
+589	491	V	peptidase_domain		1.38258	2.81459	0.878507	3.12115e-05	32.5438	5.15588	0.0347914	0	false	true	true	false
+590	492	P	peptidase_domain		1.58611	0.333454	0.000540902	0.998481	0.00243571	0	0.666667	0	false	false	false	false
+591	493	H	peptidase_domain		2.60578	0.161827	2.13264e-06	0.999994	9.59823e-06	0	0.666667	0	false	false	false	false
+592	494	D	peptidase_domain		2.68093	0.35004	6.66352e-05	0.999706	0.00029992	0	0.666667	0	false	false	false	false
+593	495	E	peptidase_domain		2.08466	0.0291389	9.78781e-07	0.999997	4.40513e-06	0	0.666667	0	false	false	false	false
+594	496	T	peptidase_domain		2.80965	0.396435	5.04935e-07	0.999983	2.27252e-06	0.00436861	0.650057	3	false	false	false	false
+595	497	Y	peptidase_domain		1.16533	0.138437	0.00154146	0.997029	0.00694825	0	0.666667	0	false	false	false	false
+596	498	C	peptidase_domain		1.45785	0.0278041	7.41995e-06	0.999979	3.33946e-05	0	0.666667	0	false	false	false	false
+597	499	D	peptidase_domain		2.82525	0.0227643	1.19621e-11	1	5.3837e-11	0	0.666667	0	false	false	false	false
+598	500	P	peptidase_domain		4.87223	0.195449	4.16926e-14	1	1.87643e-13	0	0.666667	0	false	false	false	false
+599	501	A	peptidase_domain		7.12467	0.097321	1.67326e-22	1	7.53072e-22	0	0.666667	0	false	false	false	false
+600	502	S	peptidase_domain		1.19806	2.77568	0.938104	0.00132921	68.2118	2.76962	0.120624	7	true	false	false	false
+601	503	L	peptidase_domain		2.72407	0.0388674	9.20445e-09	1	4.14257e-08	0	0.666667	0	false	false	false	false
+602	504	F	peptidase_domain		1.21293	0.10822	0.00026402	0.999381	0.00118857	0	0.666667	0	false	false	false	false
+603	505	H	peptidase_domain	catalytic_region:catalysis	7.11681	0.024277	7.74881e-19	1	3.48745e-18	0	0.666667	0	false	false	false	false
+604	506	V	peptidase_domain		2.13964	0.0310068	3.28968e-07	0.999999	1.48056e-06	0	0.666667	0	false	false	false	false
+605	507	S	peptidase_domain		0.975251	0.394987	0.037388	0.939241	0.174805	0	0.666667	0	false	false	false	false
+606	508	N	peptidase_domain		2.24136	0.338255	0.000807713	0.997984	0.00363815	-0.0418551	0.666667	3	false	false	false	false
+607	509	D	peptidase_domain		2.58253	0.0261321	4.43827e-08	1	1.9975e-07	0	0.666667	0	false	false	false	false
+608	510	Y	peptidase_domain		1.82025	0.528554	0.0137901	0.950518	0.0629318	0.00648192	0.64623	5	false	false	false	false
+609	511	S	peptidase_domain		2.66898	0.0330344	2.17094e-08	1	9.77057e-08	0	0.666667	0	false	false	false	false
+610	512	F	peptidase_domain		1.37018	0.0283269	4.66e-06	0.999987	2.0973e-05	0	0.666667	0	false	false	false	false
+611	513	I	peptidase_domain		1.05678	0.0310981	8.46756e-05	0.999767	0.000381125	0	0.666667	0	false	false	false	false
+612	514	R	peptidase_domain		2.69397	0.135689	9.70823e-08	0.999999	4.36931e-07	0	0.666667	0	false	false	false	false
+613	515	Y	peptidase_domain		2.73367	0.0353852	5.61212e-08	1	2.5258e-07	0	0.666667	0	false	false	false	false
+614	516	Y	peptidase_domain		2.73989	0.340089	2.56995e-05	0.99973	0.000115667	0	0.666667	0	false	false	false	false
+615	517	T	peptidase_domain		1.43361	0.0262758	3.73684e-07	0.999999	1.68181e-06	0	0.666667	0	false	false	false	false
+616	518	R	peptidase_domain		1.3864	0.0257258	1.22338e-06	0.999996	5.50599e-06	0	0.666667	0	false	false	false	false
+617	519	T	peptidase_domain		1.11617	0.0274528	9.84148e-06	0.99997	4.42932e-05	0	0.666667	0	false	false	false	false
+618	520	L	peptidase_domain		1.29658	0.163807	0.00072454	0.998485	0.00326324	0	0.666667	0	false	false	false	false
+619	521	Y	peptidase_domain		2.8461	0.337403	6.26245e-07	0.999983	2.81849e-06	0	0.666667	0	false	false	false	false
+620	522	Q	peptidase_domain		2.80657	0.229133	5.87776e-07	0.999993	2.64536e-06	0	0.666667	0	false	false	false	false
+621	523	F	peptidase_domain		1.10767	0.0294083	7.66034e-05	0.99978	0.000344789	0	0.666667	0	false	false	false	false
+622	524	Q	peptidase_domain		0.934796	0.0430002	0.00275573	0.993786	0.0124367	0	0.666667	0	false	false	false	false
+623	525	F	peptidase_domain		1.1043	0.0324791	0.00024892	0.999337	0.00112057	0	0.666667	0	false	false	false	false
+624	526	Q	peptidase_domain		2.51614	0.471322	0.00135799	0.993492	0.0061201	0	0.666667	0	false	false	false	false
+625	527	E	peptidase_domain		0.963094	0.272212	0.0293681	0.952845	0.136174	0	0.666667	0	false	false	false	false
+626	528	A	peptidase_domain		1.47321	0.0266794	1.40505e-07	1	6.32362e-07	0	0.666667	0	false	false	false	false
+627	529	L	peptidase_domain		1.18687	0.0300855	1.31816e-05	0.999964	5.93264e-05	0	0.666667	0	false	false	false	false
+628	530	C	peptidase_domain		2.61341	0.0234832	1.78941e-08	1	8.05347e-08	0	0.666667	0	false	false	false	false
+629	531	Q	peptidase_domain		2.03135	2.81199	0.482322	0.00105488	4.19324	0.810864	0.354812	9	false	false	false	false
+630	532	A	peptidase_domain		1.56143	1.49085	0.202584	0.202322	1.14339	0.259454	0.505205	5	false	false	false	false
+631	533	A	peptidase_domain		1.30925	0.0273119	2.20348e-06	0.999993	9.91706e-06	0	0.666667	0	false	false	false	false
+632	534	K	peptidase_domain		2.68416	1.85135	0.0370904	0.558765	0.17336	0	0.666667	0	false	false	false	false
+633	535	H	peptidase_domain		2.6387	0.623463	0.00149966	0.988299	0.00675955	0	0.666667	0	false	false	false	false
+634	536	E	peptidase_domain		2.62825	2.80748	0.115922	0.00420874	0.590131	-0.183371	0.666667	9	false	false	false	false
+635	537	G	peptidase_domain		2.79385	0.248995	1.17306e-07	0.999998	5.27952e-07	0	0.666667	0	false	false	false	false
+636	538	P	peptidase_domain		1.95758	0.937084	0.0189156	0.753343	0.0867732	1.23698	0.277361	7	false	false	false	false
+637	539	L	peptidase_domain		1.44403	0.0393357	1.21483e-06	0.999994	5.46748e-06	0	0.666667	0	false	false	false	false
+638	540	H	peptidase_domain		1.49138	1.14915	0.118042	0.321997	0.602365	0	0.666667	0	false	false	false	false
+639	541	K	peptidase_domain		1.46598	0.497764	0.0294984	0.941701	0.136796	-0.384294	0.666667	4	false	false	false	false
+640	542	C	peptidase_domain		1.25091	0.02863	3.39118e-05	0.999902	0.000152629	0	0.666667	0	false	false	false	false
+641	543	D	peptidase_domain		2.83841	0.0234566	2.95148e-11	1	1.32835e-10	0	0.666667	0	false	false	false	false
+642	544	I	peptidase_domain		0.960023	0.0316124	0.000307776	0.999146	0.00138561	0	0.666667	0	false	false	false	false
+643	545	S	peptidase_domain		2.59083	0.489039	0.000382626	0.994518	0.00172271	-0.00890957	0.666667	5	false	false	false	false
+644	546	N	peptidase_domain		2.48582	0.259583	7.75899e-05	0.999779	0.00034923	2.13742	0.169055	2	false	false	false	false
+645	547	S	peptidase_domain		2.75337	0.0240974	2.82643e-10	1	1.27207e-09	0	0.666667	0	false	false	false	false
+646	548	T	peptidase_domain		7.13348	2.73625	5.00659e-14	0.999958	2.25328e-13	-0.187646	0.666667	14	false	false	false	false
+647	549	E	peptidase_domain		2.54438	1.17665	0.0110213	0.850139	0.0501554	0	0.666667	0	false	false	false	false
+648	550	A	peptidase_domain		2.80289	0.0217538	2.06417e-11	1	9.29003e-11	0	0.666667	0	false	false	false	false
+649	551	G	peptidase_domain		2.77373	0.0229956	2.06103e-10	1	9.27592e-10	0	0.666667	0	false	false	false	false
+650	552	Q	peptidase_domain		2.78598	2.81427	0.0204096	0.00121613	0.0937699	0	0.666667	0	false	false	false	false
+651	553	K	peptidase_domain		2.74437	0.357262	2.52518e-05	0.999837	0.000113651	0	0.666667	0	false	false	false	false
+652	554	L	peptidase_domain		1.62771	0.0428723	3.67863e-06	0.999978	1.65562e-05	0	0.666667	0	false	false	false	false
+653	555	F	peptidase_domain		2.80442	1.27993	0.000649007	0.954369	0.00292283	8.15393	0.00750728	12	false	true	true	false
+654	556	N	peptidase_domain		2.59834	2.81427	0.134935	0.000514625	0.702018	-0.0706612	0.666667	11	false	false	false	false
+655	557	M	peptidase_domain		2.44202	0.0190812	0.00202807	0.993312	0.00914613	0	1	0	false	false	false	false
+656	558	L	peptidase_domain		1.19784	0.13712	0.000189383	0.999399	0.0008525	0	0.666667	0	false	false	false	false
+657	559	R	peptidase_domain		2.65165	2.8177	0.102621	0.000185686	0.514676	3.52228	0.0811761	0	false	true	false	false
+658	560	L	peptidase_domain		2.38589	0.671937	0.00434217	0.954572	0.0196277	1.94915	0.187167	5	false	false	false	false
+659	561	G	peptidase_domain		1.18811	0.0305749	8.18865e-06	0.999978	3.68543e-05	0	0.666667	0	false	false	false	false
+660	562	K	peptidase_domain		1.4048	1.07785	0.15033	0.377271	0.796286	2.13261	0.169494	11	false	false	false	false
+661	563	S	peptidase_domain		2.67857	0.152558	6.29062e-07	0.999993	2.83117e-06	0	0.666667	0	false	false	false	false
+662	564	E	peptidase_domain		2.75383	1.47754	0.00786727	0.807201	0.0356884	0.086958	0.58149	0	false	false	false	false
+663	565	P	peptidase_domain		1.22338	0.260221	0.000609057	0.998555	0.00274281	0	0.666667	0	false	false	false	false
+664	566	W	peptidase_domain		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+665	567	T	peptidase_domain		2.06318	0.148096	2.885e-06	0.999989	1.29843e-05	0	0.666667	0	false	false	false	false
+666	568	L	peptidase_domain		2.39076	7.08618	0.992952	7.00078e-09	634.039	28.8886	2.18518e-07	7	true	true	true	true
+667	569	A	peptidase_domain		2.7579	0.166526	5.32022e-08	1	2.39443e-07	0	0.666667	0	false	false	false	false
+668	570	L	peptidase_domain		2.81624	0.04385	7.91516e-12	1	3.56231e-11	0	0.666667	0	false	false	false	false
+669	571	E	peptidase_domain		1.73466	0.788408	0.0530042	0.792808	0.251904	1.49607	0.239925	8	false	false	false	false
+670	572	N	peptidase_domain		2.71047	3.03619	0.115517	0.000476655	0.587798	6.18591	0.0204979	0	false	true	true	false
+671	573	V	peptidase_domain		2.81676	1.17856	2.23753e-05	0.996258	0.000100705	0.00741937	0.644717	8	false	false	false	false
+672	574	V	peptidase_domain		2.20532	0.95251	0.0140066	0.806256	0.0639338	5.34679	0.0315346	7	false	true	true	false
+673	575	G	peptidase_domain		0.906229	0.787326	0.290179	0.517129	1.83988	8.43834	0.00649614	7	false	true	true	false
+674	576	A	peptidase_domain		2.07569	2.81479	0.458172	9.50261e-06	3.80575	2.2612	0.15817	7	false	false	false	false
+675	577	K	peptidase_domain		2.72327	0.964277	0.0016539	0.96894	0.00745593	0.0404682	0.611492	9	false	false	false	false
+676	578	N	peptidase_domain		3.26681	1.40494	3.21516e-05	0.897163	0.000144707	0	0.666667	0	false	false	false	false
+677	579	M	peptidase_domain		2.41185	0.0982226	0.0131384	0.978549	0.0599181	0.000758189	0.659938	1	false	false	false	false
+678	580	N	peptidase_domain		1.88512	1.1517	0.0670176	0.525475	0.323287	0	0.666667	0	false	false	false	false
+679	581	V	peptidase_domain		2.81651	0.513964	1.74962e-07	0.999981	7.87438e-07	0	0.666667	0	false	false	false	false
+680	582	R	peptidase_domain		2.16249	2.67943	0.378822	0.0586315	2.74467	0.032814	0.617576	6	false	false	false	false
+681	583	P	peptidase_domain		1.68137	0.0225731	4.89367e-08	1	2.20246e-07	0	0.666667	0	false	false	false	false
+682	584	L	peptidase_domain		1.17455	0.0438105	3.03099e-05	0.999928	0.000136418	0	0.666667	0	false	false	false	false
+683	585	L	peptidase_domain		1.89253	0.0273208	5.3689e-08	1	2.41634e-07	0	0.666667	0	false	false	false	false
+684	586	N	peptidase_domain		1.2384	1.48897	0.340821	0.0745328	2.32699	5.84758	0.0243804	4	false	true	true	false
+685	587	Y	peptidase_domain		1.20107	0.0406521	0.000111863	0.999756	0.000503508	0	0.666667	0	false	false	false	false
+686	588	F	peptidase_domain		2.98877	0.0258377	2.37254e-11	1	1.06779e-10	0	0.666667	0	false	false	false	false
+687	589	E	peptidase_domain		2.84044	1.55117	0.00100138	0.791229	0.00451134	0	0.666667	0	false	false	false	false
+688	590	P	peptidase_domain		2.73873	0.0185827	5.76548e-11	1	2.59482e-10	0	0.666667	0	false	false	false	false
+689	591	L	peptidase_domain		1.33597	0.0461499	2.22142e-05	0.999936	9.99801e-05	0	0.666667	0	false	false	false	false
+690	592	F	peptidase_domain		1.42656	2.80094	0.824333	0.00182694	21.1196	1.39792	0.253392	15	false	false	false	false
+691	593	T	peptidase_domain		1.79004	1.66042	0.209988	0.277635	1.19628	-0.0765189	0.666667	8	false	false	false	false
+692	594	W	peptidase_domain		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+693	595	L	peptidase_domain		1.16243	0.043531	3.52058e-05	0.999919	0.000158453	0	0.666667	0	false	false	false	false
+694	596	K	peptidase_domain		2.45431	1.21147	0.0169652	0.786793	0.0776718	0.198332	0.528872	0	false	false	false	false
+695	597	D	peptidase_domain		2.68797	2.73866	0.0772778	0.0456815	0.376926	3.97678	0.0640419	2	false	true	false	false
+696	598	Q	peptidase_domain		1.92546	0.839762	0.0429066	0.792132	0.201763	0	0.666667	0	false	false	false	false
+697	599	N	peptidase_domain		1.36765	0.0273327	3.78936e-06	0.999989	1.70545e-05	0	0.666667	0	false	false	false	false
+698	600	K	peptidase_domain		2.58251	2.76219	0.141397	0.0296463	0.741174	0.415745	0.453568	0	false	false	false	false
+699	601	N	peptidase_domain		2.27004	0.954119	0.0232773	0.828079	0.107259	0	0.666667	0	false	false	false	false
+700	602	S	peptidase_domain		2.80955	0.544752	3.81922e-06	0.999814	1.71889e-05	0.128397	0.559897	6	false	false	false	false
+701		-	alignment_gap_relative_to_human		3.96153	0.796517	0.0511165	0.83122	0.242449	0	0.666667	0	false	false	false	false
+702		-	alignment_gap_relative_to_human		1.90136	0.728834	0.143962	0.744942	0.756878	0	1	0	false	false	false	false
+703		-	alignment_gap_relative_to_human		2.82768	0.817573	0.134787	0.747815	0.701125	0	1	0	false	false	false	false
+704		-	alignment_gap_relative_to_human		2.0962	2.37086	0.351361	0.3475	2.43794	0.474453	0.436515	0	false	false	false	false
+705		-	alignment_gap_relative_to_human		2.23743	0.950856	0.154605	0.718607	0.823068	0	1	0	false	false	false	false
+706		-	alignment_gap_relative_to_human		2.23708	0.940206	0.153839	0.719791	0.81825	0	1	0	false	false	false	false
+707		-	alignment_gap_relative_to_human		2.37721	0.965542	0.153027	0.719966	0.813153	0	1	0	false	false	false	false
+708		-	alignment_gap_relative_to_human		2.23743	0.950856	0.154605	0.718607	0.823068	0	1	0	false	false	false	false
+709		-	alignment_gap_relative_to_human		2.21294	0.996563	0.158206	0.713395	0.845843	0	1	0	false	false	false	false
+710		-	alignment_gap_relative_to_human		2.36239	0.978777	0.154101	0.718392	0.819894	0	1	0	false	false	false	false
+711		-	alignment_gap_relative_to_human		2.21348	1.01697	0.159528	0.711428	0.854252	0	1	0	false	false	false	false
+712		-	alignment_gap_relative_to_human		2.10991	0.903717	0.154082	0.721014	0.81978	0	1	0	false	false	false	false
+713		-	alignment_gap_relative_to_human		4.52007	0.761634	0.0458121	0.844389	0.216082	0	0.666667	0	false	false	false	false
+714		-	alignment_gap_relative_to_human		1.91572	0.71449	0.141265	0.749229	0.740366	0	1	0	false	false	false	false
+715		-	alignment_gap_relative_to_human		2.07869	0.735115	0.137844	0.750729	0.719569	0	1	0	false	false	false	false
+716	603	F	peptidase_domain		2.9541	2.78273	0.000663283	0.0522275	0.00298717	0.130132	0.559057	12	false	false	false	false
+717	604	V	peptidase_domain		1.5371	0.389246	0.0050336	0.985717	0.0227689	0.533307	0.42041	4	false	false	false	false
+718	605	G	peptidase_domain		2.82269	0.122671	1.14279e-11	1	5.14327e-11	0	0.666667	0	false	false	false	false
+719	606	W	peptidase_domain		2.85314	0.256947	0.0571263	0.927154	0.272681	12.9143	0.000673207	1	false	true	true	false
+720	607	S	peptidase_domain		1.79345	2.81481	0.627586	7.2063e-07	7.58436	1.79143	0.203941	10	false	false	false	false
+721		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+722		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+723	608	T	peptidase_domain		4.42218	1.13893	1.31784e-09	0.999796	5.93109e-09	0.274762	0.499647	11	false	false	false	false
+724	609	D	peptidase_domain		2.41635	2.81481	0.247944	6.51102e-06	1.4838	0.52426	0.422827	13	false	false	false	false
+725		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+726		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+727	610	W	peptidase_domain		7.96789	1.12996	0.0176743	0.905522	0.0809764	0	0.666667	0	false	false	false	false
+728	611	S	peptidase_domain		2.57981	1.21375	0.00802007	0.859123	0.0363871	5.68479	0.0265053	9	false	true	true	false
+729	612	P	peptidase_domain		2.81338	0.347819	1.79353e-08	0.999999	8.07201e-08	0	0.666667	0	false	false	false	false
+730		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+731		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+732		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+733		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+734		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+735		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+736		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+737		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+738		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+739		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+740		-	alignment_gap_relative_to_human		2.45921	5.26403	0.496495	0.195612	4.43796	1.49716	0.23978	0	false	false	false	false
+741		-	alignment_gap_relative_to_human		2.29808	0.472825	0.107103	0.835115	0.539851	0	1	0	false	false	false	false
+742		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+743		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+744		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+745		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+746	613	Y	peptidase_domain		2.58083	2.56979	0.125391	0.132745	0.645246	-0.479456	0.666667	0	false	false	false	false
+747		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+748		-	alignment_gap_relative_to_human		1.92003	0.57337	0.128257	0.785848	0.662163	0	1	0	false	false	false	false
+749	614	A	peptidase_domain		2.80936	2.81477	0.00374554	0.000148212	0.0169206	0.640269	0.393303	0	false	false	false	false
+750		-	alignment_gap_relative_to_human		3.2654	9.57864	0.547307	0.168674	5.44125	0.313931	0.485986	0	false	false	false	false
+751		-	alignment_gap_relative_to_human		7.10434	0.425366	0.0177943	0.943242	0.0815362	0	0.666667	0	false	false	false	false
+752		-	alignment_gap_relative_to_human		1.99778	0.943626	0.166187	0.711444	0.897017	0	1	0	false	false	false	false
+753		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+754		-	alignment_gap_relative_to_human		2.9106	1.89269	0.181798	0.682167	1	0	1	0	false	false	false	false
+755	615	D	peptidase_domain		2.22949	2.8092	0.360893	0.00243599	2.54142	0.0280297	0.621675	9	false	false	false	false
+756	616	Q	collectrin_like_region		2.50634	2.6503	0.175119	0.0861059	0.955464	2.00725	0.181366	1	false	false	false	false
+757	617	S	collectrin_like_region		1.17878	1.21563	0.248883	0.0659638	1.49128	12.1111	0.00101014	4	false	true	true	false
+758	618	I	collectrin_like_region		1.15636	0.0306664	1.86117e-05	0.999949	8.37656e-05	0	0.666667	0	false	false	false	false
+759	619	K	collectrin_like_region		0.718729	0.035222	0.00761981	0.979225	0.0345572	0	0.666667	0	false	false	false	false
+760	620	V	collectrin_like_region		0.660721	0.0400678	0.00682062	0.982951	0.0309078	0	0.666667	0	false	false	false	false
+761	621	R	collectrin_like_region		0.934707	0.113585	0.00402651	0.990367	0.018195	0	0.666667	0	false	false	false	false
+762	622	I	collectrin_like_region		0.996407	0.0251378	0.00131766	0.995463	0.0059381	0	0.666667	0	false	false	false	false
+763	623	S	collectrin_like_region		1.23582	0.022316	4.39491e-06	0.999984	1.97799e-05	0	0.666667	0	false	false	false	false
+764	624	L	collectrin_like_region		2.77424	0.0401357	3.64466e-09	1	1.64032e-08	0	0.666667	0	false	false	false	false
+765	625	K	collectrin_like_region		2.79027	0.275077	1.53063e-06	0.999988	6.8888e-06	0	0.666667	0	false	false	false	false
+766	626	S	collectrin_like_region		2.79032	1.06581	0.000221048	0.988499	0.000995073	0.774026	0.362689	9	false	false	false	false
+767	627	A	collectrin_like_region		0.79107	0.246286	0.0440705	0.926888	0.207489	1.5581	0.231825	3	false	false	false	false
+768	628	L	collectrin_like_region		0.872417	0.419048	0.0833823	0.876271	0.40941	0	0.666667	0	false	false	false	false
+769	629	G	collectrin_like_region		0.841317	0.03336	0.00120599	0.996696	0.00543424	0	0.666667	0	false	false	false	false
+770	630	D	collectrin_like_region		1.78076	5.12231	0.726001	5.85313e-05	11.9251	8.01003	0.00807769	1	false	true	true	false
+771	631	K	collectrin_like_region		1.17943	2.81647	0.915828	4.28877e-07	48.9688	8.07672	0.00780814	10	true	true	true	true
+772	632	A	collectrin_like_region		2.74011	0.506987	8.76317e-05	0.998605	0.000394432	7.02742	0.0133297	5	false	true	true	false
+773	633	Y	collectrin_like_region		6.39865	0.0355273	7.71968e-14	1	3.47434e-13	0	0.666667	0	false	false	false	false
+774	634	E	collectrin_like_region		2.77391	2.79839	0.0267825	0.0106163	0.123855	0.259372	0.505235	0	false	false	false	false
+775	635	W	collectrin_like_region		2.48418	0.0429251	0.0061117	0.988117	0.0276756	0	1	0	false	false	false	false
+776	636	N	collectrin_like_region		2.75171	0.710432	0.000564885	0.991548	0.00254377	0	0.666667	0	false	false	false	false
+777	637	D	collectrin_like_region		1.3364	1.60639	0.336634	0.092034	2.2839	0.152708	0.548501	10	false	false	false	false
+778	638	N	collectrin_like_region		2.89491	0.341344	1.8208e-07	0.999996	8.19475e-07	0	0.666667	0	false	false	false	false
+779	639	E	collectrin_like_region		1.4174	0.0315819	1.58981e-05	0.999959	7.15525e-05	0	0.666667	0	false	false	false	false
+780	640	M	collectrin_like_region		2.42269	0.494505	0.078276	0.903664	0.382208	0.121159	0.563448	7	false	false	false	false
+781	641	Y	collectrin_like_region		2.44256	0.43501	0.00105605	0.993714	0.0047579	0	0.666667	0	false	false	false	false
+782	642	L	collectrin_like_region		2.74127	0.868382	0.000491921	0.979202	0.00221504	0	0.666667	0	false	false	false	false
+783	643	F	collectrin_like_region		0.589334	0.0316843	0.00940553	0.971844	0.0427326	0	0.666667	0	false	false	false	false
+784	644	R	collectrin_like_region		2.7948	2.81445	0.0125908	0.00023923	0.057389	0.028259	0.621473	12	false	false	false	false
+785	645	S	collectrin_like_region		2.81984	0.605117	1.20698e-07	0.999977	5.43216e-07	0	0.666667	0	false	false	false	false
+786	646	S	collectrin_like_region		2.77067	0.562794	8.86054e-05	0.998126	0.000398814	4.68511	0.0443576	5	false	true	true	false
+787	647	V	collectrin_like_region		1.98215	2.69192	0.478155	0.036695	4.12381	0.115197	0.566435	5	false	false	false	false
+788	648	A	collectrin_like_region		2.82102	0.167929	4.23132e-11	1	1.90436e-10	0	0.666667	0	false	false	false	false
+789	649	Y	collectrin_like_region		2.68777	0.339222	8.29039e-05	0.999479	0.00037315	0	0.666667	0	false	false	false	false
+790	650	A	collectrin_like_region		0.878896	0.448889	0.075216	0.883548	0.366052	7.73034	0.00931412	4	false	true	true	false
+791	651	M	collectrin_like_region		1.50299	0.317724	0.104679	0.870487	0.526204	0.130988	0.558644	5	false	false	false	false
+792	652	R	collectrin_like_region		1.96372	0.0245029	1.20885e-07	1	5.44058e-07	0	0.666667	0	false	false	false	false
+793	653	Q	collectrin_like_region		2.87833	7.09935	0.979239	0.00012699	212.286	0.472339	0.437111	8	true	false	false	false
+794	654	Y	collectrin_like_region		2.81476	0.34422	3.93864e-06	0.999939	1.77264e-05	0	0.666667	0	false	false	false	false
+795	655	F	collectrin_like_region		1.98275	0.119561	2.14288e-05	0.999948	9.64452e-05	0	0.666667	0	false	false	false	false
+796	656	L	collectrin_like_region		2.24324	2.82139	0.357421	1.4241e-06	2.50337	5.45266	0.0298632	10	false	true	true	false
+797	657	K	collectrin_like_region		1.25975	7.12462	0.99997	3.64878e-10	151026	12.4127	0.000867326	13	true	true	true	true
+798	658	V	collectrin_like_region		2.59908	7.60531	0.999996	1.13415e-16	1.26536e+06	36.5364	4.72018e-09	2	true	true	true	true
+799	659	K	collectrin_like_region		1.08374	0.504252	0.0743626	0.880822	0.361565	-0.209881	0.666667	6	false	false	false	false
+800	660	N	collectrin_like_region		2.66871	2.81482	0.0917552	0.000281919	0.454674	6.90836	0.0141653	3	false	true	true	false
+801	661	Q	collectrin_like_region		1.45308	1.25896	0.16595	0.218255	0.895486	0.00702466	0.645343	5	false	false	false	false
+802	662	M	collectrin_like_region		6.52257	2.45514	3.14609e-08	0.89619	1.41594e-07	0.778461	0.361729	16	false	false	false	false
+803	663	I	collectrin_like_region		1.72706	1.6454	0.231494	0.255794	1.3557	-0.0255577	0.666667	8	false	false	false	false
+804	664	L	collectrin_like_region		1.93149	2.7702	0.53264	0.0122101	5.12926	0.35869	0.471237	9	false	false	false	false
+805	665	F	collectrin_like_region		2.8614	0.0260974	1.20326e-10	1	5.41543e-10	0	0.666667	0	false	false	false	false
+806	666	G	collectrin_like_region		2.48421	2.78308	0.203528	0.0172792	1.15007	0.0322104	0.618079	13	false	false	false	false
+807	667	E	collectrin_like_region		2.83223	2.81481	0.00361725	0.00538731	0.016339	0.195353	0.530095	0	false	false	false	false
+808	668	E	collectrin_like_region		2.6327	2.81214	0.113593	0.00174296	0.576751	-0.0539748	0.666667	0	false	false	false	false
+809	669	D	collectrin_like_region		6.87219	1.21884	3.14202e-09	0.998623	1.4141e-08	0	0.666667	0	false	false	false	false
+810	670	V	collectrin_like_region		2.78619	0.52666	3.73887e-05	0.999031	0.000168279	0	0.666667	0	false	false	false	false
+811	671	R	collectrin_like_region		3.07616	7.125	0.936003	0.000268916	65.8246	3.3272	0.0899101	0	true	true	false	true
+812	672	V	collectrin_like_region		2.41706	0.742093	0.00937711	0.912676	0.0426023	0.719713	0.374723	7	false	false	false	false
+813	673	A	collectrin_like_region		2.28451	2.81422	0.327437	0.000292001	2.19113	13.2765	0.000560698	4	false	true	true	false
+814	674	N	collectrin_like_region		2.87987	1.38831	0.00026882	0.894301	0.00121018	0	0.666667	0	false	false	false	false
+815	675	L	collectrin_like_region		2.70346	6.67125	0.898386	1.29617e-06	39.7908	21.2961	9.88783e-06	9	false	true	true	false
+816	676	K	collectrin_like_region		2.65743	1.26684	0.0083887	0.876492	0.0380737	0.889632	0.338685	8	false	false	false	false
+817	677	P	collectrin_like_region		1.65184	0.568469	0.0102305	0.959158	0.0465194	1.41652	0.250776	5	false	false	false	false
+818	678	R	collectrin_like_region		2.83019	0.0215423	4.65204e-13	1	2.09371e-12	0	0.666667	0	false	false	false	false
+819	679	I	collectrin_like_region		1.55014	1.30427	0.0997893	0.226396	0.498898	0	0.666667	0	false	false	false	false
+820	680	S	collectrin_like_region		1.22653	0.0295793	1.13934e-06	0.999997	5.12773e-06	0	0.666667	0	false	false	false	false
+821	681	F	collectrin_like_region		1.1051	0.0293736	7.76079e-05	0.999776	0.000349311	0	0.666667	0	false	false	false	false
+822	682	N	collectrin_like_region		2.65018	2.73216	0.0973683	0.0463622	0.485489	-0.0188469	0.666667	0	false	false	false	false
+823	683	F	collectrin_like_region		0.803091	0.1263	0.0169971	0.963588	0.07782	0	0.666667	0	false	false	false	false
+824	684	F	collectrin_like_region		2.81897	2.81408	0.0115574	0.00570561	0.0526239	-0.124954	0.666667	0	false	false	false	false
+825	685	V	collectrin_like_region		1.24137	0.174787	0.000338698	0.999154	0.00152487	0	0.666667	0	false	false	false	false
+826	686	T	collectrin_like_region		2.89685	0.245275	1.28877e-10	1	5.80027e-10	-3.20333	0.666667	1	false	false	false	false
+827	687	A	collectrin_like_region		2.80907	2.81461	0.00386359	0.00022163	0.017456	-0.0705852	0.666667	10	false	false	false	false
+828	688	P	collectrin_like_region		2.80902	0.29551	1.00748e-07	0.999998	4.53428e-07	0.646525	0.391795	4	false	false	false	false
+829	689	K	collectrin_like_region		2.2854	5.01479	0.663599	2.4923e-05	8.87813	5.22894	0.0335067	0	false	true	true	false
+830	690	N	collectrin_like_region		7.05437	0.683553	2.80913e-11	1	1.26428e-10	0	0.666667	0	false	false	false	false
+831	691	V	collectrin_like_region		2.81816	7.08743	0.989979	2.35804e-05	444.622	2.38116	0.148325	10	true	false	false	false
+832	692	S	collectrin_like_region		2.79286	1.182	0.000259782	0.986562	0.00116948	0	0.666667	0	false	false	false	false
+833	693	D	collectrin_like_region		1.59588	2.7294	0.706348	0.015461	10.8258	4.10894	0.0597894	12	false	true	false	false
+834	694	I	collectrin_like_region		1.34414	2.80491	0.891324	0.000870869	36.9124	6.66427	0.0160471	2	false	true	true	false
+835	695	I	collectrin_like_region		1.90088	0.676431	0.020073	0.900713	0.0921914	0	0.666667	0	false	false	false	false
+836	696	P	collectrin_like_region		3.03061	0.21484	1.27066e-12	1	5.71874e-12	0	0.666667	0	false	false	false	false
+837	697	R	collectrin_like_region	collectrin_like:domain	2.67783	0.663851	0.000978406	0.98692	0.00440775	0	0.666667	0	false	false	false	false
+838	698	T	collectrin_like_region		1.79402	2.81479	0.625308	6.73621e-06	7.51089	2.70467	0.12485	0	false	false	false	false
+839	699	E	collectrin_like_region		0.854195	1.00986	0.522499	0.167471	4.92475	0.788514	0.359565	7	false	false	false	false
+840	700	V	collectrin_like_region		6.11964	0.0303678	3.08665e-16	1	1.38918e-15	0	0.666667	0	false	false	false	false
+841	701	E	collectrin_like_region		0.846147	0.196805	0.0365507	0.939326	0.170741	0.00305176	0.652891	2	false	false	false	false
+842	702	K	collectrin_like_region		3.91684	3.86273	0.205781	0.218272	1.16611	-0.52833	0.666667	0	false	false	false	false
+843	703	A	collectrin_like_region		1.5081	0.14122	2.21169e-05	0.999938	9.95418e-05	0	0.666667	0	false	false	false	false
+844	704	I	collectrin_like_region		0.375482	0.277157	0.348001	0.536609	2.40219	0.0471806	0.606531	3	false	false	false	false
+845	705	R	collectrin_like_region		1.45496	0.782001	0.0730861	0.75501	0.354869	0	0.666667	0	false	false	false	false
+846	706	M	collectrin_like_region		2.20085	2.81471	0.373205	0.00195561	2.67974	30.1935	1.13554e-07	5	false	true	true	false
+847	707	S	collectrin_like_region		1.00701	0.699815	0.133859	0.724638	0.695557	0	0.666667	0	false	false	false	false
+848	708	R	collectrin_like_region		1.16253	0.0290105	4.82973e-06	0.999986	2.17369e-05	0	0.666667	0	false	false	false	false
+849	709	S	collectrin_like_region		2.51229	2.81464	0.189024	8.82298e-05	1.04902	2.12469	0.170219	1	false	false	false	false
+850	710	R	collectrin_like_region		2.80346	0.0193819	7.18265e-12	1	3.23264e-11	0	0.666667	0	false	false	false	false
+851	711	I	collectrin_like_region		0.948772	0.031667	0.000336549	0.999066	0.00151519	0	0.666667	0	false	false	false	false
+852	712	N	collectrin_like_region		2.21821	0.0268604	4.41374e-07	0.999999	1.98646e-06	0	0.666667	0	false	false	false	false
+853	713	D	collectrin_like_region		1.85498	1.32656	0.110816	0.401794	0.560895	0.366543	0.468734	0	false	false	false	false
+854	714	A	collectrin_like_region		2.61501	2.65749	0.112288	0.0859636	0.569289	0.121077	0.563489	0	false	false	false	false
+855	715	F	collectrin_like_region		2.55801	0.0242442	1.9042e-08	1	8.57007e-08	0	0.666667	0	false	false	false	false
+856	716	R	collectrin_like_region		1.23792	2.81474	0.950859	6.58196e-06	87.0857	11.3989	0.00144797	1	true	true	true	true
+857	717	L	collectrin_like_region		0.930115	0.0511778	0.000927806	0.998134	0.00417958	0	0.666667	0	false	false	false	false
+858	718	N	collectrin_like_region		1.12349	0.577376	0.0994672	0.832172	0.49711	0	0.666667	0	false	false	false	false
+859	719	D	collectrin_like_region		1.41616	0.02836	4.27528e-06	0.999988	1.92415e-05	0	0.666667	0	false	false	false	false
+860	720	N	collectrin_like_region		2.37449	1.14997	0.0165227	0.775285	0.0756117	0.264713	0.503281	9	false	false	false	false
+861	721	S	collectrin_like_region		2.02387	1.20477	0.0381267	0.540276	0.178395	0	0.666667	0	false	false	false	false
+862	722	L	collectrin_like_region		1.20919	0.0428169	1.05031e-05	0.999969	4.7271e-05	0	0.666667	0	false	false	false	false
+863	723	E	collectrin_like_region		2.00203	0.12164	2.35459e-05	0.999943	0.000105974	0	0.666667	0	false	false	false	false
+864	724	F	collectrin_like_region		2.39891	0.0276489	2.09324e-07	0.999999	9.4209e-07	0	0.666667	0	false	false	false	false
+865	725	L	collectrin_like_region		0.730237	0.802797	0.521935	0.328134	4.91363	0.381417	0.464057	4	false	false	false	false
+866	726	G	collectrin_like_region		2.46825	0.0239491	1.06373e-08	1	4.78744e-08	0	0.666667	0	false	false	false	false
+867	727	I	collectrin_like_region		2.356	0.341982	0.00032209	0.998892	0.00145007	0	0.666667	0	false	false	false	false
+868	728	Q	collectrin_like_region		2.90311	2.8146	0.00115926	0.0210438	0.00522345	0	0.666667	0	false	false	false	false
+869	729	P	collectrin_like_region		2.82155	0.451354	7.89978e-09	0.999999	3.55539e-08	0.750699	0.367795	7	false	false	false	false
+870	730	T	collectrin_like_region		2.69548	0.162047	1.56366e-07	0.999999	7.03745e-07	0	0.666667	0	false	false	false	false
+871	731	L	collectrin_like_region		2.57667	0.23357	8.08935e-06	0.999862	3.64074e-05	0.323699	0.482693	2	false	false	false	false
+872	732	G	collectrin_like_region		2.81746	2.81584	0.00123188	0.000979428	0.00555108	11.6866	0.00125194	3	false	true	true	false
+873	733	P	collectrin_like_region		2.65762	0.399524	2.73686e-05	0.999785	0.000123179	0	0.666667	0	false	false	false	false
+874	734	P	collectrin_like_region		2.22938	0.197914	1.48445e-05	0.999958	6.68105e-05	0	0.666667	0	false	false	false	false
+875	735	N	collectrin_like_region		2.89847	1.21416	7.10873e-06	0.984518	3.19939e-05	0	0.666667	0	false	false	false	false
+876	736	Q	collectrin_like_region		1.78659	1.33816	0.117947	0.364599	0.601818	-0.00730118	0.666667	0	false	false	false	false
+877	737	P	collectrin_like_region		2.78696	0.348789	9.47234e-07	0.999989	4.26314e-06	0	0.666667	0	false	false	false	false
+878	738	P	collectrin_like_region		2.62061	0.614711	0.000857567	0.990104	0.0038629	2.59433	0.132386	6	false	false	false	false
+879	739	V	collectrin_like_region		0.968688	0.540653	0.0826905	0.855927	0.405707	-0.0150989	0.666667	6	false	false	false	false
+880	740	S	membrane_proximal_or_transmembrane	transmembrane:membrane	1.16773	1.19815	0.184255	0.0671193	1.01657	7.91935	0.00845933	5	false	true	true	false
+881	741	I	membrane_proximal_or_transmembrane		2.82494	1.36729	0.00149418	0.900867	0.00673478	0	0.666667	0	false	false	false	false
+882	742	W	membrane_proximal_or_transmembrane		2.48428	0.042978	0.00612233	0.988104	0.027724	0	1	0	false	false	false	false
+883	743	L	membrane_proximal_or_transmembrane		1.24271	0.44943	0.0125815	0.941745	0.0573458	-0.0295769	0.666667	0	false	false	false	false
+884	744	I	membrane_proximal_or_transmembrane		1.02704	0.25959	0.0145171	0.975157	0.0662983	0	0.666667	0	false	false	false	false
+885	745	V	membrane_proximal_or_transmembrane		1.60845	2.33253	0.541698	0.0834041	5.31959	0.255552	0.506643	7	false	false	false	false
+886	746	F	membrane_proximal_or_transmembrane		2.87374	0.0260152	1.00637e-10	1	4.52929e-10	0	0.666667	0	false	false	false	false
+887	747	G	membrane_proximal_or_transmembrane		2.83408	0.023434	7.98604e-14	1	3.59421e-13	0	0.666667	0	false	false	false	false
+888	748	V	membrane_proximal_or_transmembrane		5.04643	1.01168	6.13312e-10	0.999883	2.76029e-09	0	0.666667	0	false	false	false	false
+889	749	V	membrane_proximal_or_transmembrane		2.52529	0.308411	8.80999e-05	0.999425	0.000396539	1.35736	0.259204	3	false	false	false	false
+890	750	M	membrane_proximal_or_transmembrane		2.89693	0.182936	0.0346362	0.952627	0.161478	0	0.666667	0	false	false	false	false
+891	751	G	membrane_proximal_or_transmembrane		1.51664	0.624816	0.0225121	0.904604	0.103652	1.11485	0.297292	8	false	false	false	false
+892	752	V	membrane_proximal_or_transmembrane		2.67838	2.81353	0.0852594	0.000777358	0.419485	1.09331	0.300979	0	false	false	false	false
+893	753	I	membrane_proximal_or_transmembrane		2.80727	0.951321	3.99706e-05	0.997315	0.0001799	2.79239	0.119178	9	false	false	false	false
+894	754	V	membrane_proximal_or_transmembrane		1.59112	0.739689	0.0319093	0.816788	0.148345	-0.0921311	0.666667	8	false	false	false	false
+895	755	V	membrane_proximal_or_transmembrane		1.78796	2.50435	0.519171	0.0708154	4.8595	0.150463	0.549522	8	false	false	false	false
+896	756	G	membrane_proximal_or_transmembrane		2.477	0.167334	1.4902e-06	0.999993	6.70684e-06	0	0.666667	0	false	false	false	false
+897	757	I	membrane_proximal_or_transmembrane		2.81676	0.540039	2.97157e-06	0.999863	1.33739e-05	0.534947	0.419974	6	false	false	false	false
+898	758	V	membrane_proximal_or_transmembrane		2.81814	2.81482	0.000217326	0.000861545	0.000978313	0	0.666667	0	false	false	false	false
+899	759	I	membrane_proximal_or_transmembrane		1.16993	2.81458	0.978919	4.40383e-06	208.988	6.40419	0.0183304	7	true	true	true	true
+900	760	L	membrane_proximal_or_transmembrane		2.8012	0.0322976	1.72053e-10	1	7.74346e-10	0	0.666667	0	false	false	false	false
+901	761	I	membrane_proximal_or_transmembrane		2.73527	0.80728	0.000548145	0.983868	0.00246835	0	0.666667	0	false	false	false	false
+902	762	F	membrane_proximal_or_transmembrane		1.20839	2.81479	0.952143	9.28089e-07	89.5422	5.2599	0.0329767	9	true	true	true	true
+903	763	T	membrane_proximal_or_transmembrane		2.80993	0.928672	2.08672e-05	0.998401	9.39173e-05	0	0.666667	0	false	false	false	false
+904	764	G	membrane_proximal_or_transmembrane		2.81304	0.0230225	2.88605e-12	1	1.2989e-11	0	0.666667	0	false	false	false	false
+905	765	I	membrane_proximal_or_transmembrane		1.00686	0.331083	0.0169611	0.970555	0.0776525	0	0.666667	0	false	false	false	false
+906	766	R	membrane_proximal_or_transmembrane		2.6465	0.451288	0.000195526	0.998628	0.00088016	0	0.666667	0	false	false	false	false
+907	767	D	membrane_proximal_or_transmembrane		2.06491	2.01578	0.256538	0.279145	1.55298	1.91868	0.190287	13	false	false	false	false
+908	768	R	membrane_proximal_or_transmembrane		1.25319	0.430683	0.0077441	0.969237	0.0351253	0.0327964	0.61759	4	false	false	false	false
+909	769	K	collectrin_like_region		2.76587	1.18257	0.000817538	0.972032	0.00368244	0	0.666667	0	false	false	false	false
+910	770	K	collectrin_like_region		0.832465	0.846744	0.444663	0.35547	3.60368	0.157956	0.546136	6	false	false	false	false
+911	771	K	collectrin_like_region		1.38075	1.27883	0.188084	0.159659	1.04259	0.215353	0.522018	7	false	false	false	false
+912	772	N	collectrin_like_region		2.34515	2.81488	0.2906	4.28892e-05	1.84365	1.56418	0.231048	0	false	false	false	false
+913		-	alignment_gap_relative_to_human		1.78659	1.928	0.384873	0.294509	2.81595	1.06506	0.305896	1	false	false	false	false
+914		-	alignment_gap_relative_to_human		1.59371	6.69265	0.801968	0.0124861	18.2262	6.08549	0.0215803	3	false	true	true	false
+915		-	alignment_gap_relative_to_human		1.45872	5.80212	0.781765	0.0146329	16.1222	5.30198	0.0322702	1	false	true	true	false
+916	773	K	collectrin_like_region		1.1131	2.81271	0.965988	4.85516e-05	127.822	5.3841	0.030935	9	true	true	true	true
+917	774	A	collectrin_like_region		2.39175	2.01587	0.14324	0.377129	0.752447	-0.0925177	0.666667	0	false	false	false	false
+918		-	alignment_gap_relative_to_human		2.18027	0.850891	0.1488	0.734519	0.786764	0	1	0	false	false	false	false
+919		-	alignment_gap_relative_to_human		3.47854	5.34797	0.393619	0.321809	2.92149	0	0.666667	0	false	false	false	false
+920	775	R	collectrin_like_region		1.37591	2.77524	0.845817	0.00346942	24.6896	1.59312	0.227386	11	false	false	false	false
+921	776	S	collectrin_like_region		2.77806	2.8093	0.0243447	0.00391941	0.1123	0.512514	0.425995	0	false	false	false	false
+922	777	G	collectrin_like_region		1.16189	1.0598	0.271542	0.273888	1.67767	0.00599727	0.64705	7	false	false	false	false
+923	778	E	collectrin_like_region		2.34663	0.583758	0.00644558	0.971584	0.0291973	0	0.666667	0	false	false	false	false
+924	779	N	collectrin_like_region		2.60627	0.025458	3.20974e-08	1	1.44458e-07	0	0.666667	0	false	false	false	false
+925	780	P	collectrin_like_region		1.58394	0.0963835	2.38212e-06	0.999993	1.07211e-05	0	0.666667	0	false	false	false	false
+926	781	Y	collectrin_like_region		2.85966	0.0355438	1.2456e-09	1	5.60596e-09	0	0.666667	0	false	false	false	false
+927	782	A	collectrin_like_region		1.38173	2.80757	0.878105	0.000511812	32.4215	17.2493	7.56974e-05	5	false	true	true	false
+928		-	alignment_gap_relative_to_human		4.16129	12.395	0.644962	0.129477	8.17584	0.0120505	0.63824	0	false	false	false	false
+929		-	alignment_gap_relative_to_human		2.12709	0.964611	0.158242	0.714179	0.846071	0	1	0	false	false	false	false
+930	783	S	collectrin_like_region		6.78233	1.1169	2.85235e-11	0.999797	1.28373e-10	0.502799	0.428643	4	false	false	false	false
+931	784	I	collectrin_like_region		1.57825	2.81465	0.754035	3.65911e-05	13.7972	8.67304	0.00576557	2	false	true	true	false
+932	785	D	collectrin_like_region		2.75126	0.973071	0.00107409	0.976697	0.00483927	0	0.666667	0	false	false	false	false
+933	786	I	collectrin_like_region		2.73199	2.81402	0.0518574	0.000484542	0.246156	0.00794731	0.643902	8	false	false	false	false
+934	787	S	collectrin_like_region		2.80211	2.63111	0.0104543	0.115716	0.047548	0	0.666667	0	false	false	false	false
+935	788	K	collectrin_like_region		1.01118	1.04523	0.374016	0.210933	2.68906	0.227218	0.517367	5	false	false	false	false
+936	789	G	collectrin_like_region		1.13266	0.488398	0.0298624	0.939214	0.138536	0	0.666667	0	false	false	false	false
+937	790	E	collectrin_like_region		0.715218	0.843625	0.564962	0.271939	5.84472	10.903	0.00186095	3	false	true	true	false
+938	791	N	collectrin_like_region		3.11832	1.54824	0.000204388	0.808293	0.000920061	0	0.666667	0	false	false	false	false
+939	792	N	collectrin_like_region		3.07791	0.481044	2.752e-07	0.999987	1.23857e-06	0	0.666667	0	false	false	false	false
+940	793	P	collectrin_like_region		1.18741	1.221	0.196958	0.0564332	1.10384	3.4396	0.0847662	1	false	true	false	false
+941	794	G	collectrin_like_region		2.22887	0.586743	0.00574655	0.962118	0.0260125	0.139296	0.554692	5	false	false	false	false
+942	795	F	collectrin_like_region		0.924727	0.601553	0.169878	0.746562	0.921015	-0.0567721	0.666667	8	false	false	false	false
+943	796	Q	collectrin_like_region		1.11486	0.894075	0.224683	0.475958	1.30425	0	0.666667	0	false	false	false	false
+944	797	N	collectrin_like_region		2.65223	0.942838	0.00355221	0.950127	0.0160441	0	0.666667	0	false	false	false	false
+945	798	T	collectrin_like_region		2.74354	2.80581	0.0445573	0.00548519	0.209887	1.16508	0.2889	1	false	false	false	false
+946	799	D	collectrin_like_region		1.85093	1.20809	0.0880776	0.45045	0.43469	0	0.666667	0	false	false	false	false
+947	800	D	collectrin_like_region		2.82912	0.851934	0.000139892	0.996074	0.000629687	0	0.666667	0	false	false	false	false
+948	801	V	collectrin_like_region		2.77615	2.81262	0.0242366	0.00135391	0.111789	0	0.666667	0	false	false	false	false
+949	802	Q	collectrin_like_region		1.37085	0.335099	0.01499	0.973582	0.0684908	11.0836	0.00169843	3	false	true	true	false
+950	803	T	collectrin_like_region		2.77073	0.163509	4.1262e-08	1	1.85704e-07	2.27598	0.156921	1	false	false	false	false
+951	804	S	collectrin_like_region		2.81658	0.502831	1.07835e-07	0.999985	4.85326e-07	11.8584	0.00114774	3	false	true	true	false
+952	805	F	collectrin_like_region		1.60831	0.382369	0.0126756	0.976942	0.0577806	7.3689	0.0111982	4	false	true	true	false
+953		-	alignment_gap_relative_to_human		2.37624	1.03717	0.157724	0.712958	0.842781	0	1	0	false	false	false	false
+954		-	alignment_gap_relative_to_human		2.11957	0.935981	0.156315	0.71758	0.833861	0	1	0	false	false	false	false
+955		-	alignment_gap_relative_to_human		2.22209	1.00228	0.15836	0.713222	0.846823	0	1	0	false	false	false	false
+956		-	alignment_gap_relative_to_human		2.37408	0.985596	0.154315	0.718127	0.821246	0	1	0	false	false	false	false
+957		-	alignment_gap_relative_to_human		2.22209	1.00228	0.15836	0.713222	0.846823	0	1	0	false	false	false	false
+958		-	alignment_gap_relative_to_human		2.30708	0.94502	0.152727	0.721081	0.811269	0	1	0	false	false	false	false
+959		-	alignment_gap_relative_to_human		2.3114	0.974069	0.1547	0.718002	0.823669	0	1	0	false	false	false	false
+960		-	alignment_gap_relative_to_human		2.21577	4.27871	0.42885	0.282539	3.3793	1.53986	0.234175	1	false	false	false	false
+961		-	alignment_gap_relative_to_human		2.27515	0.922775	0.151691	0.722912	0.80478	0	1	0	false	false	false	false
+962		-	alignment_gap_relative_to_human		2.30687	0.939014	0.152294	0.721756	0.808558	0	1	0	false	false	false	false
+963		-	alignment_gap_relative_to_human		2.38544	0.906813	0.148528	0.727106	0.785076	0	1	0	false	false	false	false
+964		-	alignment_gap_relative_to_human		5.69506	1.28313	0.0673058	0.799519	0.324777	0	0.666667	0	false	false	false	false
+965		-	alignment_gap_relative_to_human		2.37265	0.978135	0.153834	0.71887	0.818216	0	1	0	false	false	false	false
+966		-	alignment_gap_relative_to_human		2.2459	0.937407	0.15335	0.720638	0.815177	0	1	0	false	false	false	false
+967		-	alignment_gap_relative_to_human		2.32598	5.13147	0.447106	0.271539	3.63949	3.32061	0.0902213	1	false	true	false	false
+968		-	alignment_gap_relative_to_human		2.20411	1.00246	0.15878	0.712792	0.849488	0	1	0	false	false	false	false
+969		-	alignment_gap_relative_to_human		2.24463	0.90235	0.150663	0.72489	0.798361	0	1	0	false	false	false	false
+970		-	alignment_gap_relative_to_human		2.001	0.556844	0.121686	0.793184	0.623541	0	1	0	false	false	false	false
+971		-	alignment_gap_relative_to_human		2.38544	0.906813	0.148528	0.727106	0.785076	0	1	0	false	false	false	false
+972		-	alignment_gap_relative_to_human		2.38843	0.971224	0.15319	0.719784	0.814173	0	1	0	false	false	false	false
+973		-	alignment_gap_relative_to_human		2.38544	0.906813	0.148528	0.727106	0.785076	0	1	0	false	false	false	false
+974		-	alignment_gap_relative_to_human		2.44452	4.68834	0.432263	0.281398	3.42668	0.539799	0.418689	1	false	false	false	false
+975		-	alignment_gap_relative_to_human		2.37436	0.99256	0.154765	0.717448	0.824076	0	1	0	false	false	false	false
+976		-	alignment_gap_relative_to_human		2.37408	0.985596	0.154315	0.718127	0.821246	0	1	0	false	false	false	false
+977		-	alignment_gap_relative_to_human		2.0217	1.07781	0.169057	0.700485	0.915657	0	1	0	false	false	false	false
+978		-	alignment_gap_relative_to_human		2.37265	0.978135	0.153834	0.71887	0.818216	0	1	0	false	false	false	false

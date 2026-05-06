@@ -1,0 +1,8 @@
+metric	value
+codon_alignment_taxa	238
+source_tree_taxa	244
+pruned_tree_taxa	238
+extra_taxa_pruned_from_tree	6
+codon_taxa_missing_from_tree	0
+extra_taxa_names	Cebus_imitator|XP_017367866.1,Lepus_europaeus|XP_062039638.1,Phascolarctos_cinereus|XP_078002220.1,Phocoena_phocoena|XP_065756439.1,Sarcophilus_harrisii|XP_031814825.1,Trachypithecus_francoisi|XP_033056809.1
+missing_taxa_names	

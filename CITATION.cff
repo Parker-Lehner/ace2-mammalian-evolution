@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-title: "Comparative Evolutionary Genomics of ACE2 Reveals Ecological and Lineage-Associated Selection Patterns Across Mammals"
-message: "If you use this repository, please cite the archived Zenodo DOI after release."
+message: "If you use this repository, cite the archived Zenodo version once the publication archive is created."
+title: "Ecological and Lineage-Associated Molecular Evolution of ACE2 Across Mammals"
 authors:
-  - family-names: Lehner
-    given-names: Parker
-version: 1.0.0-submission
-date-released: 2026-05-05
-license: MIT
-doi: "DOI pending Zenodo release"
+  - family-names: "Lehner"
+    given-names: "Parker"
+version: "v1.0.0-submission"
+date-released: "2026-05-06"
+license: "MIT"
+repository-code: "https://github.com/Parker-Lehner/ace2-mammalian-evolution"

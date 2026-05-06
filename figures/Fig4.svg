@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="740" viewBox="0 0 1500 740">
+<defs><style>text{font-family:Arial,Helvetica,sans-serif;fill:#111827}.panel{font-size:27px;font-weight:700}.head{font-size:23px;font-weight:700}.body{font-size:19px}.small{font-size:15px;fill:#475467}.num{font-size:21px;font-weight:700;fill:#12304A}.axis{font-size:14px;fill:#475467}</style></defs>
+<rect x="0" y="0" width="1500" height="740" fill="white"/>
+<text x="70.0" y="80.0" class="panel" text-anchor="start">a</text>
+<text x="115.0" y="80.0" class="head" text-anchor="start">aBSREL branch candidates</text>
+<text x="830.0" y="80.0" class="panel" text-anchor="start">b</text>
+<text x="875.0" y="80.0" class="head" text-anchor="start">Candidate-site enrichment</text>
+<text x="115.0" y="150.0" class="head" text-anchor="start">Mesoplodon mirus</text>
+<text x="115.0" y="182.0" class="small" text-anchor="start">4 foreground configuration(s)</text>
+<rect x="330.0" y="162.0" width="360.0" height="32.0" rx="2.5" fill="#EEF2F7" stroke="#C8D0DA" stroke-width="1.2"/>
+<rect x="330.0" y="162.0" width="360.0" height="32.0" rx="2.5" fill="#007C89" stroke="#007C89" stroke-width="1.2"/>
+<text x="715.0" y="186.0" class="num" text-anchor="start">LRT 167.5</text>
+<text x="115.0" y="320.0" class="head" text-anchor="start">Leptonychotes weddellii</text>
+<text x="115.0" y="352.0" class="small" text-anchor="start">3 foreground configuration(s)</text>
+<rect x="330.0" y="332.0" width="360.0" height="32.0" rx="2.5" fill="#EEF2F7" stroke="#C8D0DA" stroke-width="1.2"/>
+<rect x="330.0" y="332.0" width="32.5" height="32.0" rx="2.5" fill="#C96B00" stroke="#C96B00" stroke-width="1.2"/>
+<text x="715.0" y="356.0" class="num" text-anchor="start">LRT 15.1</text>
+<text x="875.0" y="159.0" class="body" text-anchor="start">Cetacean</text>
+<rect x="1090.0" y="135.0" width="260.0" height="28.0" rx="2.5" fill="#EEF2F7" stroke="#C8D0DA" stroke-width="1.2"/>
+<rect x="1090.0" y="135.0" width="240.0" height="28.0" rx="2.5" fill="#21835A" stroke="#21835A" stroke-width="1.2"/>
+<text x="1375.0" y="158.0" class="small" text-anchor="start">FDR 0.077</text>
+<text x="875.0" y="229.0" class="body" text-anchor="start">Aquatic</text>
+<rect x="1090.0" y="205.0" width="260.0" height="28.0" rx="2.5" fill="#EEF2F7" stroke="#C8D0DA" stroke-width="1.2"/>
+<rect x="1090.0" y="205.0" width="228.8" height="28.0" rx="2.5" fill="#C96B00" stroke="#C96B00" stroke-width="1.2"/>
+<text x="1375.0" y="228.0" class="small" text-anchor="start">FDR 0.120</text>
+<text x="875.0" y="299.0" class="body" text-anchor="start">Marine</text>
+<rect x="1090.0" y="275.0" width="260.0" height="28.0" rx="2.5" fill="#EEF2F7" stroke="#C8D0DA" stroke-width="1.2"/>
+<rect x="1090.0" y="275.0" width="228.8" height="28.0" rx="2.5" fill="#C96B00" stroke="#C96B00" stroke-width="1.2"/>
+<text x="1375.0" y="298.0" class="small" text-anchor="start">FDR 0.120</text>
+<text x="875.0" y="369.0" class="body" text-anchor="start">Deep diving</text>
+<rect x="1090.0" y="345.0" width="260.0" height="28.0" rx="2.5" fill="#EEF2F7" stroke="#C8D0DA" stroke-width="1.2"/>
+<rect x="1090.0" y="345.0" width="228.8" height="28.0" rx="2.5" fill="#C96B00" stroke="#C96B00" stroke-width="1.2"/>
+<text x="1375.0" y="368.0" class="small" text-anchor="start">FDR 0.120</text>
+<text x="875.0" y="439.0" class="body" text-anchor="start">Pinniped</text>
+<rect x="1090.0" y="415.0" width="260.0" height="28.0" rx="2.5" fill="#EEF2F7" stroke="#C8D0DA" stroke-width="1.2"/>
+<rect x="1090.0" y="415.0" width="145.9" height="28.0" rx="2.5" fill="#D7DEE8" stroke="#D7DEE8" stroke-width="1.2"/>
+<text x="1375.0" y="438.0" class="small" text-anchor="start">FDR 0.439</text>
+<text x="875.0" y="509.0" class="body" text-anchor="start">Semi-aquatic</text>
+<rect x="1090.0" y="485.0" width="260.0" height="28.0" rx="2.5" fill="#EEF2F7" stroke="#C8D0DA" stroke-width="1.2"/>
+<rect x="1090.0" y="485.0" width="0.0" height="28.0" rx="2.5" fill="#D7DEE8" stroke="#D7DEE8" stroke-width="1.2"/>
+<text x="1375.0" y="508.0" class="small" text-anchor="start">FDR 1.000</text>
+<text x="115.0" y="600.0" class="small" text-anchor="start">Branch-level and enrichment outputs prioritize follow-up; mechanism remains unassigned.</text>
+</svg>
